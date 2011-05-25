@@ -1,0 +1,64 @@
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.09.02"]
+[White "Vikesha"]
+[Black "spintheblack"]
+[WhiteElo "1933"]
+[BlackElo "1860"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. c3 Nc6 5. d4 Qb6 6. a3 Nge7 7. b4 cxd4 8. cxd4
+Nf5 9. Bb2 a5 10. b5 Nce7 11. a4 Bd7 12. Ba3 Rc8 13. Bc5 Qc7 14. Nc3 b6
+15. Bxe7 Bxe7 16. Rc1 Bb4 17. Nd2 Bxc3 18. Bd3 Bxd2+ 19. Kxd2 Qxc1+ 20. Qxc1
+Rxc1 21. Kxc1 Nxd4 22. Kd2 f6 23. exf6 gxf6 24. Ke3 Nf5+ 25. Bxf5 exf5 26. Kd4
+Kf7 27. Kxd5 Rd8 28. Kd6 Be8+ 29. Kc7 Rd7+ 30. Kxb6 Rd2 31. Kxa5 Re2 32. Rb1
+Ra2 33. Rb4 Rc2 34. b6 Rc8 35. b7 Rb8 36. Ka6 Bc6 37. Ka7 Rxb7+ 38. Rxb7+ Bxb7
+39. Kxb7 Ke6 40. a5 Ke5 41. a6 Kf4 42. a7 Kg5 43. a8=Q h5 44. Qg8+ Kf4 45. Qg3+
+Ke4 46. Qe3+ Kd5 47. f4 h4 48. h3 Kd6 49. Kb6
+
+{spintheblack resigns} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.09.02"]
+[White "densuprun"]
+[Black "spintheblack"]
+[WhiteElo "1838"]
+[BlackElo "1860"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. c4 Bd6 6. c5 Be7 7. Bf4 c6 8. Nbd2
+Bg4 9. Bd3 h6 10. O-O O-O 11. h3 Nbd7 12. hxg4 Nxg4 13. Ne5 Ndxe5 14. Bxe5 f5
+15. f4 Bh4 16. Nf3 Be7 17. Qc2 g6 18. b4 Bf6 19. a4 Bxe5 20. Nxe5 Ne3 21. Qf2
+Nxf1 22. Qxf1 Qf6 23. b5 Rac8 24. Nd7 Qxd4+ 25. Kh1 Rf7 26. Ne5 Rg7 27. bxc6
+bxc6 28. Rd1 g5 29. Bxf5 Qxf4 30. Qxf4 gxf4 31. Bxc8 Re7 32. Nxc6 Rc7 33. Be6+
+Kg7 34. Bxd5 Kf6 35. Rc1 h5 36. Bf3 h4 37. Nd4 Ke7 38. Nb5 Rc8 39. c6 Rc7
+40. Nxc7 Kd6 41. Nb5+ Ke5 42. c7 Ke6 43. c8=Q+ Ke5 44. Qg4 a6 45. Re1+ Kf6
+46. Re6+ Kf7 47. Qg6+ Kf8 48. Re8#
+
+{spintheblack checkmated} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.09.02"]
+[White "spintheblack"]
+[Black "densuprun"]
+[WhiteElo "1846"]
+[BlackElo "1853"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 e5 2. d4 Nc6 3. Nf3 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 Qf6 7. Qe2 Nge7
+8. g3 Bd4 9. Bd2 O-O 10. Bg2 d6 11. O-O h6 12. Nb5 Bb6 13. Nc3 Nd4 14. Qd3 Nec6
+15. Be3 Nf3+ 16. Kh1 Bg4 17. Bxb6 axb6 18. Nd5 Qe5 19. Bxf3 Bxf3+ 20. Qxf3 Nd4
+21. Nxd4 Qxd4 22. c3 Qc5 23. Rad1 Rxa2 24. Rd2 Kh8 25. Rfd1 b5 26. Nf4 Re8
+27. b4 Qe5 28. Rd5 Qxe4 29. Qxe4 Rxe4 30. Rh5 Rxf2 31. Kg1 Rc2 32. Nd5 Ree2
+33. Kf1 Rf2+ 34. Kg1
+
+{densuprun forfeits on time} 1-0

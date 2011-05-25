@@ -1,0 +1,158 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+          "http://www.w3.org/TR/html40/loose.dtd">
+
+<html>
+         
+  <head>
+    <title>Module: chess</title>
+  </head>
+
+  <body bgcolor="#ffffff">
+
+        <p><i><a href="index.html">Table of Contents</a></i></p>
+        
+        <table border="0" cellpadding="5" cellspacing="0" width="100%">
+        <tr bgcolor="#88bbee">
+            <th rowspan="2"
+                valign="top"
+                align="left"
+                width="10%"><font color="#000000">Module: chess</font>
+            </th>
+            <th width="90%" align="right"><font color="#000000">chess.py</font></th>
+        </tr>
+        <tr>
+        <td>
+        
+<p>A chess adjudicator, which understands several standard notations for moves.</p>
+<table border="0" cellpadding="5" cellspacing="0" width="100%">
+
+        <tr>
+            <th bgcolor="#99ccff"
+                rowspan="2"
+                valign="top"
+                align="left"
+                width="20%"
+                >
+                <font color="#000000">
+                  <a name="Imported modules">Imported modules</a>&nbsp;
+                </font>
+            </th>
+            <th bgcolor="#99ccff"
+                valign="top"
+                align="left"
+                width="80%"
+                >
+                <font color="#000000">&nbsp;</font>
+            </th>
+        </tr>
+        <tr>
+        <td>
+        
+<b>import</b> <a href="http://www.python.org/doc/current/lib/module-string.html">string</a><br>
+
+</td></tr>
+
+        <tr>
+            <th bgcolor="#99ccff"
+                rowspan="2"
+                valign="top"
+                align="left"
+                width="20%"
+                >
+                <font color="#000000">
+                  <a name="Classes">Classes</a>&nbsp;
+                </font>
+            </th>
+            <th bgcolor="#99ccff"
+                valign="top"
+                align="left"
+                width="80%"
+                >
+                <font color="#000000">&nbsp;</font>
+            </th>
+        </tr>
+        <tr>
+        <td>
+        
+<table border="0" cellpadding="3" cellspacing="0">
+<tr><td valign="top" align="left"><a href="chess_AlgebraicLoc.py.html">AlgebraicLoc</a></td><td valign="top" align="left">
+<p>A Loc expressed using algebraic notation.</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_AmbiguousMoveError.py.html">AmbiguousMoveError</a></td><td valign="top" align="left">
+<p>An ambiguous move was attempted.</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_Bishop.py.html">Bishop</a></td><td valign="top" align="left">
+<p>The bishop.</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_Board.py.html">Board</a></td><td valign="top" align="left">
+<p>Representation of a chessboard.</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_ConsistencyError.py.html">ConsistencyError</a></td><td valign="top" align="left">
+<p>An internal inconsistency check failed (internal error).</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_EmptySquareError.py.html">EmptySquareError</a></td><td valign="top" align="left">
+<p>A move was attempted from an empty square.</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_Error.py.html">Error</a></td><td valign="top" align="left">
+<p>The base error class.  All chess-related exceptions derive from</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_FileFormatError.py.html">FileFormatError</a></td><td valign="top" align="left">
+<p>A save file format was not recognized.</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_Game.py.html">Game</a></td><td valign="top" align="left">
+<p>Encapsulates a game.</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_IllegalMoveError.py.html">IllegalMoveError</a></td><td valign="top" align="left">
+<p>An illegal move was attempted.</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_King.py.html">King</a></td><td valign="top" align="left">
+<p>The king.  Supports castling.</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_Knight.py.html">Knight</a></td><td valign="top" align="left">
+<p>The knight.</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_Loc.py.html">Loc</a></td><td valign="top" align="left">
+<p>A raw location on the board, represented as a file (x) and a rank (y)</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_Move.py.html">Move</a></td><td valign="top" align="left">
+<p>Encapsulates a single move.</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_NoMatchesError.py.html">NoMatchesError</a></td><td valign="top" align="left">
+<p>A search for a piece resulted in no matches.</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_ParseError.py.html">ParseError</a></td><td valign="top" align="left">
+<p>Unrecognized command.</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_Pawn.py.html">Pawn</a></td><td valign="top" align="left">
+<p>The pawn.  Supports promotion, en passant captures.</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_Piece.py.html">Piece</a></td><td valign="top" align="left">
+<p>A piece, on or off the board.</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_Queen.py.html">Queen</a></td><td valign="top" align="left">
+<p>The queen.</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chess_Rook.py.html">Rook</a></td><td valign="top" align="left">
+<p>The rook.</p>
+</td></tr>
+</table>
+</td></tr>
+</td></tr>
+</table>
+
+        </td>
+        </tr>
+        </table>
+
+        <hr>
+
+        <p><i><a href="index.html">Table of Contents</a></i></p>
+
+        <font size="-2"><i>This document was automatically generated
+        on Thu Jul 25 17:22:53 2002 by
+        <a href="http://happydoc.sourceforge.net">HappyDoc</a> version
+        2.0.1</i></font>
+        
+        </body>
+        </html>
+        

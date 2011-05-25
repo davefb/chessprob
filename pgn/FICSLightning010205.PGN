@@ -1,0 +1,79 @@
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.01.02"]
+[White "spintheblack"]
+[Black "Sheikki"]
+[WhiteElo "1899"]
+[BlackElo "1807"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 e6 2. e5 c6 3. d4 d6 4. f4 dxe5 5. fxe5 f6 6. Nf3 fxe5 7. Nxe5 Nf6 8. Bg5
+Nbd7 9. Bc4 Nxe5 10. dxe5 Qxd1+ 11. Kxd1 Nd5 12. Nd2 Bc5 13. Ne4 Bb6 14. Nd6+
+Kd7 15. Kd2 Rf8 16. Rhf1 Rf2+ 17. Rxf2 Bxf2 18. Rf1 Bc5 19. Rf7+ Ne7 20. Rxe7+
+Kd8 21. Rf7#
+
+{Sheikki checkmated} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.01.02"]
+[White "densuprun"]
+[Black "spintheblack"]
+[WhiteElo "1804"]
+[BlackElo "1905"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. c4 Bd6 6. c5 Be7 7. Bf4 c6 8. Nbd2
+O-O 9. Bd3 Re8 10. O-O Bg4 11. h3 Bh5 12. Qc2 Nbd7 13. b4 b6 14. Rfc1 bxc5
+15. bxc5 Bg6 16. Bxg6 hxg6 17. Qa4 Nh5 18. Bh2 Rc8 19. Qxa7 Ndf6 20. Ne5 g5
+21. Qa6 Nf4 22. Nxc6 Qc7 23. Ne5 Ne4 24. Ndf3 Ne2+ 25. Kf1 Nxc1 26. Rxc1 Ra8
+27. Qd3 Qa5 28. c6 Rac8 29. Ng4 f5 30. Nge5 f4 31. Nxg5 Bd6
+
+{densuprun forfeits on time} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.01.02"]
+[White "KARlMOV"]
+[Black "spintheblack"]
+[WhiteElo "1813"]
+[BlackElo "1911"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 e6 2. e5 d5 3. exd6 Bxd6 4. d4 Nf6 5. Nf3 c5 6. Nc3 cxd4 7. Nxd4 Qc7
+8. Bb5+ Nc6 9. Nxc6 bxc6 10. Ba4 Ba6 11. Be3 O-O 12. Ne2 Rab8 13. O-O Rxb2
+14. Re1 Rb4 15. Bb3 Rfb8 16. a3 R4b7 17. Nd4 c5 18. Nf3 c4 19. Ba4 c3 20. Bb3
+e5 21. Bg5 Be7 22. Bxf6 Bxf6 23. Qd5 Rb5 24. Qe4 Bb7 25. Qf5 e4 26. Ng5 Rxf5
+27. Nxf7 Qxf7 28. Bxf7+ Kxf7 29. Rab1 Bd4 30. Rxe4 Rxf2 31. Rxd4 Rxc2 32. Rd7+
+Ke6 33. Rdxb7 Rxb7 34. Rxb7 Rb2 35. Rc7 c2 36. Kf2 c1=Q+ 37. Kg3 Qxc7+ 38. Kh3
+Rb3+ 39. g3 Qe5 40. a4 Re3 41. Kg4 Qe4+ 42. Kh3 Re2 43. a5 Qf5+ 44. Kh4 h5
+45. h3 Qg4+ 46. hxg4 hxg4 47. Kxg4 Re5 48. a6 Ra5 49. Kf4 Rxa6 50. g4 Ra1
+51. Kg5 Rf1 52. Kg6 a5 53. g5 Kd5 54. Kxg7 Rh1 55. g6 Rg1 56. Kf8 Rxg6 57. Kf7
+a4 58. Kxg6 a3 59. Kf6 a2 60. Ke7 a1=Q
+
+{KARlMOV forfeits on time} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.01.02"]
+[White "spintheblack"]
+[Black "KARlMOV"]
+[WhiteElo "1917"]
+[BlackElo "1812"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 c6 5. g3 Nf6 6. Bg2 Bg4 7. O-O e6 8. d3
+Nbd7 9. Bd2 O-O-O 10. Qe2 Qc7 11. Rae1 h5 12. Bf4 Bd6 13. Bxd6 Qxd6 14. Ne4
+Nxe4 15. Qxe4 Nf6 16. Qa4 Kb8 17. h3 Bf5 18. Ne5 Qc7 19. Rd1 Nd5 20. c3 Qxe5
+21. d4 Qc7 22. c4 Nb6 23. Qb4 Bc2 24. a4 Bxd1 25. Rxd1 Qd6 26. a5 Qxb4
+
+{spintheblack resigns} 0-1

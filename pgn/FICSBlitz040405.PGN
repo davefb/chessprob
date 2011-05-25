@@ -1,0 +1,19 @@
+
+[Event "fics rated blitz match"]
+[Site "fics"]
+[Date "2005.04.04"]
+[White "Shindou"]
+[Black "spintheblack"]
+[WhiteElo "1930"]
+[BlackElo "1738"]
+[TimeControl "180+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8. Nf3
+cxd4 9. cxd4 Bb4+ 10. Bd2 O-O 11. O-O h6 12. a3 Bxd2 13. Qxd2 Kh8 14. Rac1 f5
+15. exf6 Nxf6 16. Nh4 Kg8 17. Ng6 Rf7 18. Bc2 Bd7 19. Rfd1 e5 20. dxe5 Nxe5
+21. Nxe5 Ne4 22. Bxe4 Qxf2+ 23. Kh1 Re7 24. Bxd5+ Kh8 25. Ng6+ Kh7 26. Nxe7 Re8
+27. Qd3+ Kh8 28. Ng6+ Kh7 29. Nf8+ Kh8 30. Qh7#
+
+{spintheblack checkmated} 1-0

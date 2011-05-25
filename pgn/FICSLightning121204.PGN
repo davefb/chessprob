@@ -1,0 +1,19 @@
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2004.12.12"]
+[White "GCE"]
+[Black "spintheblack"]
+[WhiteElo "1832"]
+[BlackElo "1883"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. Nf3 e6 2. g3 d5 3. Bg2 c5 4. O-O Nf6 5. d3 Nc6 6. Nbd2 Bd6 7. e4 Qc7 8. Qe2
+dxe4 9. dxe4 Nxe4 10. Nxe4 Bd7 11. Rd1 Be7 12. Bf4 Qb6 13. Nd6+ Bxd6 14. Bxd6
+Rd8 15. Ne5 Nxe5 16. Qxe5 f6 17. Qxc5 Qxc5 18. Bxc5 Kf7 19. Rd2 b6 20. Rad1
+bxc5 21. Rxd7+ Rxd7 22. Rxd7+ Kg6 23. Rxa7 Rb8 24. b3 Rd8 25. Bf3 Rd2 26. Rc7
+Rxc2 27. Be4+ f5 28. Bxc2 Kg5 29. Rxg7+ Kf6 30. Rxh7 Ke5 31. Re7
+
+{spintheblack resigns} 1-0

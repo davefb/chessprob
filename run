@@ -1,0 +1,1 @@
+xboard -boardSize small -debug -fcp "python /home/dfb/chessprob/boardint.py"

@@ -1,0 +1,24 @@
+xboard
+protover 2
+accepted analyze
+accepted sigint
+accepted usermove
+accepted colors
+new
+random
+level 40 5 0
+hard
+time 30000
+otim 30000
+usermove e2e4
+post
+force
+analyze
+usermove e7e6
+.
+usermove d2d4
+usermove g8f6
+undo
+usermove d7d5
+usermove b1c3
+usermove g8f6

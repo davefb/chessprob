@@ -1,0 +1,46 @@
+
+[Event "fics rated blitz match"]
+[Site "fics"]
+[Date "2005.09.22"]
+[White "spintheblack"]
+[Black "nicholson"]
+[WhiteElo "1730"]
+[BlackElo "1809"]
+[TimeControl "180+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e3 e5 2. d4 exd4 3. exd4 d5 4. c3 Nf6 5. Bd3 Be7 6. Nf3 O-O 7. O-O Bg4
+8. Bg5 h6 9. Bh4 Nbd7 10. Nbd2 c5 11. Qc2 Rc8 12. Bf5 Bxf5 13. Qxf5 cxd4
+14. Nxd4 Re8 15. Rae1 Nb6 16. Re2 Ne4 17. Bxe7 Rxe7 18. Rfe1 Rec7 19. Nxe4 dxe4
+20. Rxe4 g6 21. Qf4 Nd5 22. Qxh6 Nf6 23. Rh4 Nh5 24. Rhe4 Nf6 25. R4e3 Nd5
+26. Rh3 Qf6 27. Nf3 Qg7 28. Qg5 Nf6 29. Ne5 Re7 30. f4 Rce8 31. Kf2 Nh7 32. Qh4
+f6 33. Nf3 Rxe1 34. Nxe1 g5 35. Qh5 Qe7 36. Qg6+ Kh8 37. Nf3 gxf4 38. Qc2 Qe4
+39. Qxe4 Rxe4 40. Nd4 Kg7 41. Nf5+ Kg6 42. Nd6 Re6 43. Nxb7 Rb6 44. Rh4 Rxb2+
+45. Kf3 Rxb7 46. Rxf4 Rb2 47. Ra4 Rc2 48. c4 Ng5+ 49. Ke3 Rxg2 50. Rxa7 Rxh2
+51. a4 Rb2 52. a5 Rb3+ 53. Kd4 Ra3 54. Kc5 Ne4+ 55. Kb6 Nd2 56. c5 Nc4+ 57. Kc6
+Ne5+ 58. Kd5
+
+{nicholson forfeits on time} 1-0
+
+[Event "fics rated blitz match"]
+[Site "fics"]
+[Date "2005.09.22"]
+[White "spintheblack"]
+[Black "Ismirdochegal"]
+[WhiteElo "1743"]
+[BlackElo "1837"]
+[TimeControl "180+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 d6 6. Be3 b5 7. a3 Bb7 8. f3
+Nf6 9. Be2 Nbd7 10. O-O Be7 11. Qd3 Rc8 12. f4 Nc5 13. Qd1 Nfxe4 14. Nxe4 Nxe4
+15. Bf3 O-O 16. f5 e5 17. Ne2 Qc7 18. c3 Bf6 19. Ng3 Nxg3 20. hxg3 e4 21. Bg4
+d5 22. Bh3 Be5 23. g4 f6 24. g5 fxg5 25. Bxg5 Bf6 26. Be3 Qc4 27. g4 Rcd8
+28. g5 Be5 29. f6 gxf6 30. gxf6 Kf7 31. Qg4 Rg8 32. Kh1 Rxg4 33. Bxg4 d4
+34. Bh5+ Ke6 35. Bg5 e3+ 36. Kg1 e2 37. Rf2 dxc3 38. Bxe2 cxb2 39. Bxc4+ bxc4
+40. Raf1 Bd4 41. f7 Rf8 42. Bh6 Rxf7 43. Re1+ Kd5 44. Rd1 Rxf2 45. Be3 Rd2
+46. Rxd2 b1=Q+
+
+{spintheblack resigns} 0-1

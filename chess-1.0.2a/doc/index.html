@@ -1,0 +1,226 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+          "http://www.w3.org/TR/html40/loose.dtd">
+
+<html>
+         
+  <head>
+    <title>HappyDoc Generated Documentation</title>
+  </head>
+
+  <body bgcolor="#ffffff">
+
+        <p><i><a href="index.html">Table of Contents</a></i></p>
+        
+        <table border="0" cellpadding="5" cellspacing="0" width="100%">
+        <tr bgcolor="#88bbee">
+            <th rowspan="2"
+                valign="top"
+                align="left"
+                width="10%"><font color="#000000">HappyDoc Generated Documentation</font>
+            </th>
+            <th width="90%" align="right"><font color="#000000">&nbsp;</font></th>
+        </tr>
+        <tr>
+        <td>
+        
+<h3>Summary</h3>
+<p>    This Python module does not know how to <em>play</em> chess, but does
+    understand the rules enough that it can watch moves and verify
+    that they are correct.</p>
+<h3>Getting the software</h3>
+<p>    The software is available in a tarball here:
+    <a href="http://www.alcyone.com/pyos/chess/chess-latest.tar.gz">http://www.alcyone.com/pyos/chess/chess-latest.tar.gz</a>.</p>
+<p>    The official URL for this Web site is
+    <a href="http://www.alcyone.com/pyos/chess/">http://www.alcyone.com/pyos/chess/</a>.</p>
+<h3>Features</h3>
+<p>    This module has the following features:</p>
+
+<ul>
+<li><p>high abstraction</p></li>
+<li><p>understands various notations, including algebraic, long
+      algebraic, and standard algebraic notation (as in PGN); does
+      disambiguation</p></li>
+<li><p>supports saving and loading of the state of a game</p></li>
+<li><p>not a trivial move processor; understands the intracies of the
+      game</p></li>
+
+</ul>
+<h3>Basics</h3>
+<p>    The following standard abbreviations are used:</p>
+
+<ul>
+<li><p>K = king</p></li>
+<li><p>Q = queen</p></li>
+<li><p>B = bishop</p></li>
+<li><p>N = knight (note: not Kn)</p></li>
+<li><p>R = rook</p></li>
+<li><p>P = pawn</p></li>
+
+</ul>
+<p>    Uppercase letters are used to represent white pieces, lowercase
+    black.  Squares on the chessboard are identified with the standard
+    algebraic notation of a (lowercase) letter a-h followed by a
+    number 1-8, which represent file (column) and rank (row)
+    respectively, with 1 being the white home rank and 8 being black.
+    The default state of the chessboard is:
+<pre>
+        . . a b c d e f g h . .
+        . +-----------------+ .
+        8 | r n b q k b n r | 8
+        7 | p p p p p p p p | 7
+        6 | . . . . . . . . | 6
+        5 | . . . . . . . . | 5
+        4 | . . . . . . . . | 4
+        3 | . . . . . . . . | 3
+        2 | P P P P P P P P | 2
+        1 | R N B Q K B N R | 1
+        . +-----------------+ .
+        . . a b c d e f g h . .
+</pre>
+</p>
+<h3>Usage</h3>
+<p>    The chest.py test program demonstrates the general way the module
+    is intended to be used.  The constants <code>WHITE</code> and <code>BLACK</code> are
+    used to indicate colors.  Create a <code>Game</code> instance, call its
+    <code>move</code> method with names, which returns instances of a <code>Move</code>
+    class to indicate the state of the resulting move, and raises
+    errors on encountering problems.  The <code>ok</code> method indicates
+    whether or not the game is over.</p>
+<h3>Notation</h3>
+<p>    The move disambiguator is somewhat sophisticated and understands a
+    variety of notation types:</p>
+<dl>
+<dt>    <strong>algebraic notation (AN)</strong></dt>
+<dd>The most widely used of simple
+    chess notations, simply consisting of two algebraic locations
+    indicating a starting square and an ending square; e.g., d2d4,
+    g1f3, d5e6.</dd>
+<dt>    <strong>long algebraic notation (LAN)</strong></dt>
+<dd>Extended algebraic, including
+    an intervening <em>-</em> for moves and <em>x</em> for piece captures, as well
+    as a preceding (uppercase, regardless of color) piece type; e.g.,
+    Pd2-d4, Ng1-f3, Pd5xe6.</dd>
+<dt>    <strong>standard algebraic notation (SAN)</strong></dt>
+<dd>As described by the
+    Portable Game Notation (PGN).  <a href="http://www.very-best.de/pgn-spec.htm">A full specification is
+    available</a>, but the key
+    features are as follows:
+<ul>
+<li><p>Non-capturing moves generally involve only the piece type
+          and the destination square, where pawns are generally not
+          listed; e.g., d4, Nf3, Qd6. When disambiguation of moves is
+          necessary, the file of the desired piece should be
+          indicated; e.g., Nce2, Raf1.</p></li>
+<li><p>Captures are indicated with by putting an x between the
+          piece type and the destination square; for pawns, the file
+          of the capturing piece is used; e.g., fxg6, Qxa5.  When
+          further disambiguation is necessary, full algebraic notation
+          may be used; e.g., Qc3xa5.</p></li>
+<li><p>Kingside castle is indicated with O-O, queenside with O-O-O.</p></li>
+<li><p>A suffixed <em>+</em> indicates check, a suffixed <em>#</em> indicates
+          checkmate.</p></li>
+<li><p>A <em>=</em> followed by a piece name indicates pawn promotion
+          (pawn promotion indicator comes before check or checkmate
+          indicator, if appropriate).</p></li>
+
+</ul>
+</dd>
+<dt>    <strong>hybrids</strong></dt>
+<dd>The disambiguator understands (obvious) hybrids as
+    well; e.g., Pxg6.</dd>
+</dl>
+<h3>Known problems</h3>
+
+<ul>
+<li><p>Engine written entirely in Python and not designed for speed.</p></li>
+<li><p>Game does not detect stalemate.</p></li>
+<li><p>Castling and pawn promotion implementations are a little weird;
+      they require stowing away data in attributes inside the pieces.</p></li>
+
+</ul>
+<h3>Wish list</h3>
+
+<ul>
+<li><p>A barely competent computer-controlled chess player would be
+      nice.</p></li>
+<li><p>It would be nice if the system truly understood complete PGN
+      games, with all game notations.</p></li>
+<li><p>A chess game browser would be nice, where a full game could be
+      loaded and navigated.</p></li>
+<li><p>It would be good if more game formats were understood, e.g.,
+      Forsyth-Edwards notation, etc.</p></li>
+<li><p>Interaction with xboard would be swell.</p></li>
+<li><p>Support for such notations as PxP (pawn takes pawn), as well 
+      as other somewhat more traditional notations would be nice.</p></li>
+<li><p>This was chiefly written before I had upgraded to 2.0, so some
+      1.5-isms are around.</p></li>
+
+</ul>
+<h3>License</h3>
+<p>    This code is released under the <a href="http://www.gnu.org/copyleft/gpl.html">GPL</a>.  If you use this software,
+    <a href="mailto:pyos@alcyone.com">I'd like to know about it</a>.</p>
+<h3>Release history</h3>
+
+<ul>
+<li><p>1.0.2; 2002 Feb 24.  Bug with en passant moves fixed.</p></li>
+<li><p>1.0.1; 2002 Feb 2.  Include GPL license document, minor text 
+      changes.</p></li>
+<li><p>1.0; 2001 May 19.  Initial release.</p></li>
+
+</ul>
+<h3>Author</h3>
+<p>    This module was written by <a href="http://www.alcyone.com/max/">Erik Max Francis</a>, who, curiously enough, is not a very
+    strong chess player.</p>
+<h3>Version</h3>
+<p>    Version 1.0.2a $Date: 2002/07/25 $ $Author: max $</p>
+<table border="0" cellpadding="5" cellspacing="0" width="100%">
+
+        <tr>
+            <th bgcolor="#99ccff"
+                rowspan="2"
+                valign="top"
+                align="left"
+                width="20%"
+                >
+                <font color="#000000">
+                  <a name="Modules and Packages">Modules and Packages</a>&nbsp;
+                </font>
+            </th>
+            <th bgcolor="#99ccff"
+                valign="top"
+                align="left"
+                width="80%"
+                >
+                <font color="#000000">&nbsp;</font>
+            </th>
+        </tr>
+        <tr>
+        <td>
+        
+<table border="0" cellpadding="3" cellspacing="0">
+<tr><td valign="top" align="left"><a href="chess.py.html">chess</a></td><td valign="top" align="left">
+<p>A chess adjudicator, which understands several standard notations for moves.</p>
+</td></tr>
+<tr><td valign="top" align="left"><a href="chest.py.html">chest</a></td><td valign="top" align="left">
+<p>A simple test program to demonstrate the chess engine.</p>
+</td></tr>
+</table>
+</td></tr>
+</table>
+
+        </td>
+        </tr>
+        </table>
+
+        <hr>
+
+        <p><i><a href="index.html">Table of Contents</a></i></p>
+
+        <font size="-2"><i>This document was automatically generated
+        on Thu Jul 25 17:22:53 2002 by
+        <a href="http://happydoc.sourceforge.net">HappyDoc</a> version
+        2.0.1</i></font>
+        
+        </body>
+        </html>
+        

@@ -1,0 +1,82 @@
+<html>
+  <head>
+    <style>
+#sidebar {
+    display: none;
+}
+#content {
+    float: none;
+    width: 90%%;
+}
+#content pre {
+    background: none repeat scroll 0 0 #EEEEEE;
+    color: #000000;
+}
+#content .comments {
+    display: none;
+}
+.black_sq { float:left; font-size:25px; width:25px; height:25px;
+background: #ccc; }
+.white_sq { float:left; font-size:25px; width:25px; height:25px; }
+
+}
+
+/* Content */
+#content {}
+
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5 { 
+    font-family: "lucidamac bold", "lucida grande", arial, sans-serif; 
+    letter-spacing: -1px;
+}
+
+
+#content h1 { font-size: 24px; margin: 0 0 0.3em; }
+#content h2 { font-size: 22px; margin: 0 0 0.3em; }
+#content h3 { font-size: 20px; margin: 1.2em 0 0.3em; }
+#content h4 { font-size: 18px; margin: 1.2em 0 0.3em; border-bottom:
+1px dotted #bbb; }
+#content h5 { font-size: 18px; background: #ffd; margin: 1.2em 0
+0.3em; border-bottom: 1px dotted #aaa; }
+
+#content pre {
+    color: #003366;
+    background: #ffffe0;
+    overflow: auto;
+    font: Consolas, "bitstream vera sans mono", monaco, "lucida
+    console", "courier new", courier, serif;
+    margin: 0.9em 0;
+    padding: 8px;
+}
+
+#content .chessboard pre { color: #000; background: #fff; }
+
+#content {
+    width: 600px;
+}
+
+    </style>
+  </head>
+  <body>
+
+
+  <body>
+
+    <div class="container">
+      <div class="content">
+	<div class="chessboard">
+	  <pre>
+%s
+	  </pre>
+	</div>
+      </div>
+    </div>
+    <div class="links">
+%s
+    </div>
+
+  </body>
+</html>

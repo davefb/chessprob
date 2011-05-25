@@ -1,0 +1,79 @@
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.03.26"]
+[White "spintheblack"]
+[Black "omnivore"]
+[WhiteElo "1867"]
+[BlackElo "1876"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. Bd3 d5 5. exd5 Nxd5 6. Be4 Be6 7. O-O f5
+8. Bc2 e4 9. Ne1 Qf6 10. d3 exd3 11. Bxd3 O-O-O 12. Nf3 g5 13. Bxg5 Qg6
+14. Bxd8 Nxd8 15. Nbd2 Bd6 16. g3 Nf4 17. Kh1 Nxd3 18. Nd4 Bd5+ 19. Kg1 Ne5
+20. Qc2 Ng4 21. Qxf5+ Qxf5 22. Nxf5 Bc5 23. b4 Bb6 24. c4 Rf8 25. Nh4 Nxf2
+26. c5 Nh3#
+
+{spintheblack checkmated} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.03.26"]
+[White "omnivore"]
+[Black "spintheblack"]
+[WhiteElo "1884"]
+[BlackElo "1857"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Be3 Qb6 6. Qd2 cxd4 7. cxd4 Bb4 8. Nc3
+Nge7 9. Bd3 Nf5 10. Bxf5 exf5 11. Nge2 Be6 12. O-O Rc8 13. Rac1 O-O 14. Nf4 Na5
+15. Qd3 Nc4 16. Ncxd5 Bxd5 17. Nxd5 Qe6 18. Rxc4 Qxd5 19. Rxb4 a5 20. Rb5 Qxa2
+21. Qb3 Qxb3 22. Rxb3 Rc7 23. Rb5 Re8 24. g3 f6 25. Rxa5 fxe5 26. Rxe5 Rd8
+27. Rxf5 g6 28. Re5 Kg7 29. Re1 Kf6 30. Bg5+ Kf7 31. Bxd8
+
+{spintheblack resigns} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.03.26"]
+[White "spintheblack"]
+[Black "omnivore"]
+[WhiteElo "1848"]
+[BlackElo "1891"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 d3 4. Bxd3 d5 5. O-O dxe4 6. Bxe4 Qxd1 7. Rxd1 Nf6
+8. Nc3 Bd6 9. Bg5 Nbd7 10. Re1 O-O 11. Re2 Nxe4 12. Nxe4 h6 13. Nxd6 hxg5
+14. Ne4 g4 15. Nd4 c5 16. Nb3 c4 17. Nd4 Nb6 18. Rae1 f5 19. Nc5 Kf7 20. Re7+
+Kg6 21. Rc7 Nd5 22. Nce6 Kh5 23. Rxg7 Bxe6 24. Nxe6 Rfe8 25. Rg5+ Kh6 26. Rxf5
+Rad8 27. Rfe5 Rd6 28. Nf4 Rxe5 29. Rxe5 Nf6 30. h3 g3 31. fxg3 Rd2 32. Kh2 Nh5
+33. Ne6
+
+{omnivore forfeits on time} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.03.26"]
+[White "omnivore"]
+[Black "spintheblack"]
+[WhiteElo "1882"]
+[BlackElo "1859"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Be3 Qb6 6. Qd2 cxd4 7. cxd4 Nge7 8. Bd3
+Nf5 9. Bxf5 exf5 10. Ne2 Be6 11. Nbc3 Bb4 12. O-O O-O 13. Qd3 Rac8 14. Nf4 Ne7
+15. Nh5 Ng6 16. g3 Bxc3 17. bxc3 Rc4 18. Rfc1 Rfc8 19. Qd2 Qa5 20. Bh6 f4
+21. Nxg7 Rxc3 22. Nh5 Rxc1+ 23. Qxc1 Rxc1+ 24. Rxc1 Qd8 25. Nf6+ Kh8 26. Bg5
+fxg3 27. hxg3 Nf8 28. Ne4 Qe8 29. Bf6+ Kg8 30. Ng5 Nd7 31. Rc7 Nxf6 32. exf6
+Qd8 33. Re7 Qf8 34. Nf3 a6 35. Ne5 h6 36. f4 Kh7 37. g4 Qg8 38. Kf2 h5 39. g5
+h4 40. Rxb7 h3 41. Rb1 h2 42. Rh1 Qg6 43. Rxh2+ Qh5 44. Ng6 Kg8
+
+{omnivore forfeits on time} 0-1

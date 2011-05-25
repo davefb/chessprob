@@ -1,0 +1,1 @@
+cat pgn/FICSBlitz1*.PGN  | python buildtree.py

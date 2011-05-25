@@ -1,0 +1,43 @@
+
+[Event "fics rated blitz match"]
+[Site "fics"]
+[Date "2005.01.02"]
+[White "lapham"]
+[Black "spintheblack"]
+[WhiteElo "1841"]
+[BlackElo "1761"]
+[TimeControl "180+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
+c5 9. Qd2 Nc6 10. O-O-O O-O 11. g3 b5 12. Bg2 Bb7 13. Kb1 b4 14. Ne2 c4 15. f5
+a5 16. Nf4 a4 17. Rhf1 b3 18. cxb3 axb3 19. a3 Nb6 20. Nh4 Na4 21. Rf3 c3
+22. Rxc3 Nxc3+ 23. Qxc3 Rfc8 24. Qe3 Rxa3 25. bxa3 Qxa3 26. Rd2 Nb4 27. Rb2 Nc2
+
+{lapham resigns} 0-1
+
+[Event "fics rated blitz match"]
+[Site "fics"]
+[Date "2005.01.02"]
+[White "spintheblack"]
+[Black "lapham"]
+[WhiteElo "1778"]
+[BlackElo "1831"]
+[TimeControl "180+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. exd5 exd5 5. Bd3 Nc6 6. Nf3 Nb4 7. O-O Nxd3
+8. Qxd3 Be7 9. Re1 O-O 10. Bg5 c6 11. Ne5 Re8 12. f4 Bb4 13. Re2 Bxc3 14. bxc3
+Qd6 15. c4 Ne4 16. cxd5 cxd5 17. Rae1 f6 18. Rxe4 dxe4 19. Qc4+ Be6 20. Qe2
+Qxd4+ 21. Kh1 fxe5 22. fxe5 Qxe5 23. Bh4 Bd5 24. Bg3 Qe6 25. Qe3 Bc6 26. Rd1
+Rad8 27. Re1 Qd5 28. Bf4 Qd2 29. Qxd2 Rxd2 30. Bxd2 Kf7 31. Be3 a6 32. Kg1 Rd8
+33. Kf2 Ke6 34. c3 Bd5 35. Bd4 Rf8+ 36. Kg3 Rf5 37. Rb1 e3 38. Re1 Rg5+ 39. Kf4
+Rxg2 40. Rxe3+ Kd7 41. Re5 Bxa2 42. Rc5 Rg6 43. Be5 Rc6 44. Rd5+ Ke6 45. Rd4 g6
+46. Re4 Rc4 47. Bd4+ Kd7 48. Re5 b5 49. Rd5+ Kc6 50. Re5 b4 51. Re8 bxc3
+52. Rc8+ Kd5 53. Rd8+ Kc6 54. Re8 Kb5 55. Re6 Kb4 56. Rb6+ Ka5 57. Rb2 Rxd4+
+58. Ke5 cxb2 59. Kxd4 b1=Q 60. Kc3 Qb3+ 61. Kd4 Qc4+ 62. Ke5 Qd5+ 63. Kf6 Qe6+
+64. Kg5 Qe5+
+
+{spintheblack forfeits on time} 0-1

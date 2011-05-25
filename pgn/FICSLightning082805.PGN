@@ -1,0 +1,112 @@
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.08.28"]
+[White "spintheblack"]
+[Black "Tropic"]
+[WhiteElo "1849"]
+[BlackElo "1929"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. g3 e5 5. Bg2 Nxc3 6. bxc3 Nc6 7. Bb2 Bd6
+8. c4 O-O 9. d3 Nd4 10. Bxd4 exd4 11. Ne2 Re8 12. O-O c5 13. Re1 Bg4 14. Qd2
+Rb8 15. Nf4 Qc7 16. Nd5 Qd7 17. Rxe8+ Rxe8 18. Re1 b6 19. Qg5 Be6 20. Nf4 Bxf4
+21. Qxf4 g6 22. Qf3 Kg7 23. Qc6 Qxc6 24. Bxc6 Rd8 25. f4 Rd6 26. Bb5 Bg4
+27. Kf2 Re6 28. Rxe6 Bxe6 29. a4 a5 30. Bc6 f6 31. Bd5 Bf5 32. Kf3 Bh3 33. g4
+f5 34. g5 Bg4+ 35. Kf2 Bd1 36. h4 Bxc2 37. Ke2 Bxa4 38. Bb7 Bb3 39. Ba6 a4
+40. Kd2 a3 41. Kc1 a2 42. Kb2 Bd1 43. Kxa2 Be2 44. Kb2 Bxd3 45. Bb5 Be4 46. Kc1
+Kf7 47. Kd2 Ke6 48. Ke1 Kd6 49. Kd2 Kc7 50. Ba6 Kc6 51. Bb5+ Kd6 52. Ba4 Ke7
+53. Bc2 h5 54. Bd1 Kd6 55. Bc2 Bf3 56. Bd1 Bg4 57. Be2 Bxe2 58. Kxe2 b5 59. Kd3
+bxc4+ 60. Kxc4 Kc6 61. Kd3 Kd5 62. Kc2 c4 63. Kd2 Ke4 64. Kc2 Kxf4 65. Kd2 Kg4
+66. Kc2 Kxh4 67. Kd2 Kxg5 68. Kc2 h4 69. Kd2 h3
+
+{spintheblack forfeits on time} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.08.28"]
+[White "Tropic"]
+[Black "spintheblack"]
+[WhiteElo "1935"]
+[BlackElo "1843"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Nf6 5. Bd3 c6 6. O-O Bd6 7. Re1+ Be6
+8. c4 O-O 9. c5 Bc7 10. Nc3 Nbd7 11. Bg5 Qb8 12. h3 h6 13. Bxf6 Nxf6 14. b4 Re8
+15. b5 Bf4 16. Qc2 Qc8 17. Rab1 Bxh3 18. Rxe8+ Nxe8 19. gxh3 Qxh3 20. Qe2 Nf6
+21. bxc6 b6 22. cxb6 axb6 23. Rxb6 Ng4 24. c7 Bh2+ 25. Kh1 Bxc7+ 26. Kg1 Bxb6
+27. Ne5 Nxe5 28. Qxe5 Qg4+ 29. Kf1 Bxd4 30. Qg3 Qxg3 31. fxg3 Bxc3
+
+{Tropic resigns} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.08.28"]
+[White "spintheblack"]
+[Black "Sheikki"]
+[WhiteElo "1853"]
+[BlackElo "1863"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 e5 2. d4 d5 3. Nf3 dxe4 4. Nxe5 Nc6 5. Nxc6 bxc6 6. Nc3 c5 7. dxc5 Qxd1+
+8. Nxd1 Bxc5 9. Bb5+ Bd7 10. Bxd7+ Kxd7 11. O-O f5 12. Nc3 Bd6 13. Bg5 h6
+14. Be3 Nf6 15. Rad1 f4 16. Bd4 Ke7 17. Nb5 a6 18. Nxd6 cxd6 19. Rfe1 d5 20. g3
+fxg3 21. hxg3 Kd6 22. Kg2 Rab8 23. b3 Rhc8 24. c4 Rf8 25. cxd5 Nxd5 26. Rxe4
+Rfe8 27. Rxe8 Rxe8 28. Bxg7 h5 29. Bd4 Rg8 30. a4 Nf4+ 31. Kf3 Ne6 32. b4 Nxd4+
+33. Rxd4+ Ke5 34. Rh4 Rf8+ 35. Ke3 Rb8 36. Rxh5+ Kf6 37. Rh4 Kg5 38. Rf4 Re8+
+39. Kd3 Rb8 40. Rd4 Rd8 41. f4+ Kg4 42. f5+ Kxg3 43. Rxd8 Kf4 44. Rd4+ Kxf5
+45. Rd6 a5 46. Ra6 axb4 47. Rb6 b3 48. Rxb3 Ke5 49. a5 Kd5 50. a6 Kc5 51. a7
+Kc6 52. a8=Q+ Kc7 53. Qd5 Kc8 54. Qc6+ Kd8 55. Qa6 Ke7 56. Rb7+ Kd8 57. Qa8#
+
+{Sheikki checkmated} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.08.28"]
+[White "Sheikki"]
+[Black "spintheblack"]
+[WhiteElo "1855"]
+[BlackElo "1861"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 e6 2. d4 d5 3. Be3 Nf6 4. Nc3 Nfd7 5. e5 c5 6. f4 cxd4 7. Bxd4 Nc6 8. Nf3
+Bc5 9. Bxc5 Nxc5 10. Bb5 Qb6 11. Bxc6+ bxc6 12. b3 Ba6 13. Qd2 Rd8 14. Nd4 O-O
+15. a4 Ne4 16. a5 Qb7 17. Nxe4 dxe4 18. Qe3 Qb4+ 19. c3 Qc5 20. O-O-O Rb8
+21. Kb2 Rfd8 22. Nxc6 Qxc6 23. Rxd8+ Rxd8 24. Qxa7 Rd2+ 25. Ka3 Qc5+ 26. Qxc5
+h6 27. Qc6 Bd3 28. Qc8+ Kh7 29. Rc1 e3 30. a6 e2 31. a7 Bc2 32. a8=Q Bd1
+33. Qh8+ Kg6 34. h4 e1=Q 35. h5+ Kxh5 36. Qxg7 Ra2+ 37. Kxa2 Qd2+ 38. Ka3 Qa2+
+39. Kb4 Bxb3 40. Qf6 Qa4+ 41. Kc5 Qb5+ 42. Kd6 Bc4
+
+{Sheikki forfeits on time} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.08.28"]
+[White "spintheblack"]
+[Black "Sheikki"]
+[WhiteElo "1869"]
+[BlackElo "1847"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 d5 2. exd5 e6 3. Nc3 exd5 4. d3 Be6 5. Nf3 Bd6 6. Bf4 Bxf4 7. Be2 Bd6
+8. O-O Nc6 9. Qd2 Nf6 10. Rae1 Qd7 11. d4 O-O-O 12. Bb5 a6 13. Ba4 b5 14. Bb3
+Na5 15. Ne2 Nxb3 16. axb3 Ne4 17. Qa5 Qc6 18. Ra1 Qb6 19. Qxa6+ Qxa6 20. Rxa6
+Kd7 21. Rfa1 f6 22. Nc3 g5 23. Nxe4 dxe4 24. Nd2 f5 25. c3 Bd5 26. Kf1 Ra8
+27. Rxa8 Rxa8 28. Re1 Ra2 29. Rb1 c5 30. dxc5 Bxc5 31. b4 Bd6 32. Ke2 Bxh2
+33. g3 Bc4+ 34. Ke3 Ra8 35. Nf1 Bxf1 36. Rxf1 Ra2 37. Rb1 f4+ 38. Kxe4 fxg3
+39. fxg3 Bxg3 40. Kf5 Bf4 41. Kg4 h6 42. Rd1+ Ke6 43. Rh1 Rxb2 44. Rxh6+ Ke5
+45. Rh3 Rb3 46. Rf3 Bd2 47. Rd3 Ke6 48. Rxd2 Rxc3 49. Ra2 Rc4+ 50. Kg3 Rxb4
+51. Re2+ Kd5 52. Ra2 Kc4 53. Ra8 Rb1 54. Rc8+ Kb3 55. Re8 b4 56. Re3+ Kb2
+57. Re2+ Ka3 58. Rc2 b3 59. Rc3 Kb2 60. Rc5 Rg1+ 61. Kf2 Rc1
+
+{spintheblack forfeits on time} 0-1

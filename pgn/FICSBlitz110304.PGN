@@ -1,0 +1,18 @@
+
+[Event "fics rated blitz match"]
+[Site "fics"]
+[Date "2004.11.03"]
+[White "marshallattack"]
+[Black "spintheblack"]
+[WhiteElo "1965"]
+[BlackElo "1752"]
+[TimeControl "180+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Qb6 8. Na4
+Qa5+ 9. c3 Be7 10. dxc5 O-O 11. b4 Qc7 12. Bd3 b6 13. b5 Na5 14. c6 Nc5
+15. Nxc5 bxc5 16. O-O a6 17. a4 Rb8 18. Rb1 c4 19. Bc2 Rd8 20. Bd4 axb5
+21. axb5 Rf8 22. Ba4 f6 23. b6 Qd8 24. c7
+
+{spintheblack resigns} 1-0

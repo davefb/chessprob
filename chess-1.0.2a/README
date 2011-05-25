@@ -1,0 +1,187 @@
+Summary
+
+    This Python module does not know how to *play* chess, but does
+    understand the rules enough that it can watch moves and verify
+    that they are correct.
+
+
+Getting the software
+
+    The software is available in a tarball here:
+    "http://www.alcyone.com/pyos/chess/chess-latest.tar.gz",
+    http://www.alcyone.com/pyos/chess/chess-latest.tar.gz.
+
+    The official URL for this Web site is
+    "http://www.alcyone.com/pyos/chess/", 
+    http://www.alcyone.com/pyos/chess/.
+
+
+Features
+
+    This module has the following features:
+
+    - high abstraction
+
+    - understands various notations, including algebraic, long
+      algebraic, and standard algebraic notation (as in PGN); does
+      disambiguation
+
+    - supports saving and loading of the state of a game
+
+    - not a trivial move processor; understands the intracies of the
+      game
+
+
+Basics
+    
+    The following standard abbreviations are used:
+    
+    - K = king
+    
+    - Q = queen
+    
+    - B = bishop
+    
+    - N = knight (note: not Kn)
+    
+    - R = rook
+    
+    - P = pawn
+    
+    Uppercase letters are used to represent white pieces, lowercase
+    black.  Squares on the chessboard are identified with the standard
+    algebraic notation of a (lowercase) letter a-h followed by a
+    number 1-8, which represent file (column) and rank (row)
+    respectively, with 1 being the white home rank and 8 being black.
+    The default state of the chessboard is::
+    
+    	. . a b c d e f g h . .
+    	. +-----------------+ .
+    	8 | r n b q k b n r | 8
+    	7 | p p p p p p p p | 7
+    	6 | . . . . . . . . | 6
+    	5 | . . . . . . . . | 5
+    	4 | . . . . . . . . | 4
+    	3 | . . . . . . . . | 3
+    	2 | P P P P P P P P | 2
+    	1 | R N B Q K B N R | 1
+    	. +-----------------+ .
+    	. . a b c d e f g h . .
+
+
+Usage
+
+    The chest.py test program demonstrates the general way the module
+    is intended to be used.  The constants 'WHITE' and 'BLACK' are
+    used to indicate colors.  Create a 'Game' instance, call its
+    'move' method with names, which returns instances of a 'Move'
+    class to indicate the state of the resulting move, and raises
+    errors on encountering problems.  The 'ok' method indicates
+    whether or not the game is over.
+
+
+Notation
+    
+    The move disambiguator is somewhat sophisticated and understands a
+    variety of notation types:
+    
+    **algebraic notation (AN)** -- The most widely used of simple
+    chess notations, simply consisting of two algebraic locations
+    indicating a starting square and an ending square; e.g., d2d4,
+    g1f3, d5e6.
+    
+    **long algebraic notation (LAN)** -- Extended algebraic, including
+    an intervening *-* for moves and *x* for piece captures, as well
+    as a preceding (uppercase, regardless of color) piece type; e.g.,
+    Pd2-d4, Ng1-f3, Pd5xe6.
+    
+    **standard algebraic notation (SAN)** -- As described by the
+    Portable Game Notation (PGN).  "A full specification is
+    available", http://www.very-best.de/pgn-spec.htm, but the key
+    features are as follows:
+    
+        - Non-capturing moves generally involve only the piece type
+          and the destination square, where pawns are generally not
+          listed; e.g., d4, Nf3, Qd6. When disambiguation of moves is
+          necessary, the file of the desired piece should be
+          indicated; e.g., Nce2, Raf1.
+    
+        - Captures are indicated with by putting an x between the
+          piece type and the destination square; for pawns, the file
+          of the capturing piece is used; e.g., fxg6, Qxa5.  When
+          further disambiguation is necessary, full algebraic notation
+          may be used; e.g., Qc3xa5.
+    
+        - Kingside castle is indicated with O-O, queenside with O-O-O.
+    
+        - A suffixed *+* indicates check, a suffixed *#* indicates
+          checkmate.
+    
+        - A *=* followed by a piece name indicates pawn promotion
+          (pawn promotion indicator comes before check or checkmate
+          indicator, if appropriate).
+    
+    **hybrids** -- The disambiguator understands (obvious) hybrids as
+    well; e.g., Pxg6.
+
+
+Known problems
+
+    - Engine written entirely in Python and not designed for speed.
+
+    - Game does not detect stalemate.
+
+    - Castling and pawn promotion implementations are a little weird;
+      they require stowing away data in attributes inside the pieces.
+
+
+Wish list
+
+    - A barely competent computer-controlled chess player would be
+      nice.
+
+    - It would be nice if the system truly understood complete PGN
+      games, with all game notations.
+
+    - A chess game browser would be nice, where a full game could be
+      loaded and navigated.
+
+    - It would be good if more game formats were understood, e.g.,
+      Forsyth-Edwards notation, etc.
+
+    - Interaction with xboard would be swell.
+
+    - Support for such notations as PxP (pawn takes pawn), as well 
+      as other somewhat more traditional notations would be nice.
+    
+    - This was chiefly written before I had upgraded to 2.0, so some
+      1.5-isms are around.
+
+
+License
+
+    This code is released under the "GPL",
+    http://www.gnu.org/copyleft/gpl.html.  If you use this software,
+    "I'd like to know about it", mailto:pyos@alcyone.com.
+
+
+Release history
+
+    - 1.0.2; 2002 Feb 24.  Bug with en passant moves fixed.
+
+    - 1.0.1; 2002 Feb 2.  Include GPL license document, minor text 
+      changes.
+
+    - 1.0; 2001 May 19.  Initial release.
+
+
+Author
+
+    This module was written by "Erik Max Francis",
+    http://www.alcyone.com/max/, who, curiously enough, is not a very
+    strong chess player.
+
+
+Version
+
+    Version 1.0.2a $Date: 2002/07/25 $ $Author: max $

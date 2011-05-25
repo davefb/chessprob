@@ -1,0 +1,46 @@
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2004.11.18"]
+[White "spintheblack"]
+[Black "Gambini"]
+[WhiteElo "1857"]
+[BlackElo "2078"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 g6 2. e5 Bg7 3. f4 d6 4. Nf3 Nd7 5. c3 dxe5 6. fxe5 Nxe5 7. d4 Nxf3+
+8. Qxf3 Nf6 9. h3 c6 10. Bc4 O-O 11. O-O Qc7 12. Bf4 Qa5 13. Nd2 Bf5 14. g4 Bd7
+15. Ne4 Nxe4 16. Qxe4 Rae8 17. Bd2 e5 18. Qf3 Be6 19. dxe5 Qxe5 20. Bxe6 Qxe6
+21. Rae1 Qc4 22. Rxe8 Rxe8 23. Qf4 Qxf4 24. Rxf4 Re2 25. Bc1 Re1+ 26. Rf1 Re2
+27. Rf2 Re7 28. Kf1 Rd7 29. Kg2 a5 30. Rd2 Rxd2+ 31. Bxd2 a4 32. c4 Bxb2
+33. Bb4 Bd4 34. Kf3 Kg7 35. Ke4 Ba1 36. c5 Kf6 37. h4 Ke6 38. g5 Bb2 39. a3 Bc1
+40. Kd4 Bf4 41. Be1 Bc1 42. Kc4 Bxa3 43. Kc3 Bc1 44. Kb4 Bf4 45. Kxa4 Be3
+46. Kb4 Bf4 47. Kc4 Be5 48. Kd3 Kd5 49. Bf2 Bc7 50. Ke3 b5 51. Kf3
+
+{Gambini forfeits on time} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2004.11.18"]
+[White "Gambini"]
+[Black "spintheblack"]
+[WhiteElo "2066"]
+[BlackElo "1869"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. Nf3 e6 2. d3 d5 3. Nbd2 c5 4. e4 Nf6 5. g3 Nc6 6. Bg2 Qc7 7. O-O Bd6 8. Re1
+O-O 9. Qe2 Bd7 10. e5 Nxe5 11. Nxe5 Rae8 12. Ndf3 Bb5 13. a4 Ba6 14. Bg5 Nd7
+15. Nxd7 Qxd7 16. Ne5 Qc7 17. Bf4 f6 18. Nf3 Bxf4 19. gxf4 Qxf4 20. Nd2 e5
+21. Qe3 Qf5 22. Qg3 e4 23. dxe4 dxe4 24. Nxe4 b6 25. Nd6 Rxe1+ 26. Rxe1 Qxc2
+27. Qh4 Qg6 28. Qg3 Qh6 29. Qe3 Bc8 30. Qxh6 gxh6 31. Nxc8 Rxc8 32. Re7 a5
+33. Be4 c4 34. Bxh7+ Kf8 35. Rb7 Rc6 36. Be4 Rd6 37. Kg2 c3 38. bxc3 Re6
+39. Bd5 Re5 40. c4 Re2 41. Rxb6 Ra2 42. Bc6 Rc2 43. Bb5 Rb2 44. Rxf6+ Ke7
+45. Rxh6 Kf7 46. Rh3 Kg7 47. Rf3 Rc2 48. Re3 Rc3 49. Re4 Re3 50. Rxe3 Kg6
+51. Rf3 Kg5 52. c5 Kh5 53. c6 Kh4 54. c7 Kg5 55. c8=Q Kh4 56. Qa8 Kg5 57. Qxa5
+Kh4 58. Qd2 Kh5 59. Qd4 Kh6 60. Re3 Kh7 61. Re5 Kh8 62. Qd6 Kg8 63. Re7
+
+{spintheblack forfeits on time} 1-0

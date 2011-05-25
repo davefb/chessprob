@@ -1,0 +1,209 @@
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.01.06"]
+[White "SullenBishop"]
+[Black "spintheblack"]
+[WhiteElo "2142"]
+[BlackElo "1903"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. d4 e6 2. c4 d5 3. Nf3 Nf6 4. g3 Bb4+ 5. Bd2 Bxd2+ 6. Qxd2 c5 7. cxd5 exd5
+8. Bg2 cxd4 9. Nxd4 Be6 10. Nxe6 fxe6 11. O-O Nc6 12. Nc3 Qd6 13. Rad1 Rd8
+14. e4 O-O 15. exd5 exd5 16. Nxd5 Kh8 17. Qc3 Rc8 18. Nxf6 Qxf6 19. Qxf6 Rxf6
+20. Rd7 Ne5 21. Rxb7 Rcf8 22. f4 Nd3 23. Rd1 Nc5 24. Rxa7 Ne6 25. Rdd7 g5
+26. Rxh7+ Kg8 27. Bd5 R8f7 28. Bxe6 Rxe6 29. Raxf7 g4 30. Re7 Rf6 31. Rb7 Rd6
+32. Rhg7+ Kh8 33. Rgd7 Rxd7 34. Rxd7
+
+{spintheblack resigns} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.01.06"]
+[White "spintheblack"]
+[Black "palash"]
+[WhiteElo "1900"]
+[BlackElo "1977"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 O-O
+8. O-O Nc6 9. f4 Bd7 10. Bb3 Ng4 11. Bf2 Nxf2 12. Kxf2 Nxd4 13. Kg1 Nxb3
+14. axb3 Rc8 15. Nd5 Be6 16. Ne3 Qb6 17. Qd3 Bxb2 18. Rab1 Bd4 19. Rfe1 Rc3
+20. Qd2 Rfc8 21. Kh1 Bxe3 22. Qe2 Bxf4 23. Rf1 Be5 24. Qf3 Rxc2 25. Rbd1 R8c3
+26. Qxc3 Rxc3
+
+{spintheblack resigns} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.01.06"]
+[White "SullenBishop"]
+[Black "spintheblack"]
+[WhiteElo "2145"]
+[BlackElo "1894"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. d4 e6 2. c4 d5 3. Nf3 Nf6 4. g3 c5 5. cxd5 exd5 6. Bg2 Be6 7. O-O Nc6 8. Nc3
+a6 9. b3 Rc8 10. dxc5 Bxc5 11. Na4 Ba7 12. Bb2 O-O 13. Rc1 Qd7 14. Nc5 Bxc5
+15. Rxc5 Nb4 16. Rxc8 Rxc8 17. a3 Nc6 18. Nd4 Nxd4 19. Qxd4 Rc6 20. Rd1 Rd6
+21. h4 Ne8 22. h5 h6 23. Qf4 d4 24. b4 Bc4 25. Rxd4 Rxd4 26. Qxd4 Qxd4 27. Bxd4
+Bxe2 28. Bxb7 Nd6 29. Bd5 Nb5 30. Bb2 Nc7 31. Bc6 Ne6 32. f3 Ng5 33. Kf2 Bxf3
+34. Bxf3 Ne6 35. Be2 Kf8 36. Bxa6 Ke7 37. Be2 Kd6 38. b5 Ng5 39. a4 Kc5 40. Bc1
+Kb4 41. Bxg5 hxg5 42. b6 Kxa4 43. b7 Kb3 44. b8=Q+ Kc2 45. Qf8 Kc3 46. Qxf7 Kd4
+47. Qxg7+ Ke4 48. Qxg5
+
+{spintheblack forfeits on time} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.01.06"]
+[White "spintheblack"]
+[Black "BunnyRabid"]
+[WhiteElo "1891"]
+[BlackElo "1895"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 d6 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 O-O
+8. O-O Nc6 9. Qd2 Ng4 10. Nb3 Nxe3 11. Qxe3 a6 12. Rad1 Ne5 13. Bd5 Qc7 14. f4
+Ng4 15. Qd3 Rb8 16. h3 Nf6 17. Kh1 b5 18. a3 e6 19. e5 dxe5 20. fxe5 Qxe5
+21. Bf3 Bb7 22. Rde1 Qc7 23. Bxb7 Rxb7 24. Qf3 Rb6 25. Nd2 Rd6 26. Rf2 Rfd8
+27. Nde4 Nxe4 28. Nxe4 R6d7 29. Ref1 Qb7 30. Ng5 Qxf3 31. Rxf3 Rf8 32. R1f2 h6
+33. Ne4 Bxb2 34. Nc5 Rd1+ 35. Kh2 Bd4 36. Nxe6 Bxf2 37. Nxf8 Bg1+ 38. Kg3 Kxf8
+39. Rc3 Kg7 40. Rc8 Bb6 41. Ra8 Bc7+ 42. Kf3 Rd2 43. Rxa6 Rxc2 44. Rc6 Rc3+
+45. Rxc3 Bd6 46. Rc6 Bxa3 47. Rc8 b4 48. Rb8 b3 49. Rxb3 Bb2 50. Ra3 Bc3
+51. Rb3 Bd4 52. Rc3 Be5 53. Rd3 Bf6 54. Rd7 Bg5
+
+{spintheblack forfeits on time} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.01.06"]
+[White "BunnyRabid"]
+[Black "spintheblack"]
+[WhiteElo "1903"]
+[BlackElo "1883"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 e6 2. b3 d5 3. Bb2 d4 4. d3 c5 5. Nd2 Nc6 6. g3 e5 7. Bg2 f5 8. h3 Nf6
+9. exf5 Bxf5 10. Ne2 Bd6 11. O-O Qc7 12. Nc4 O-O 13. Nxd6 Qxd6 14. Qd2 Rae8
+15. a3 e4 16. dxe4 Nxe4 17. Bxe4 Bxe4 18. Nf4 Ne5 19. Qd1 Bf3 20. Qc1 Rxf4
+21. Qxf4 Be2 22. Rfe1 Nf3+ 23. Kg2 Qc6 24. Rxe2 Ne1+ 25. Kf1 Qh1#
+
+{BunnyRabid checkmated} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.01.06"]
+[White "spintheblack"]
+[Black "BunnyRabid"]
+[WhiteElo "1891"]
+[BlackElo "1895"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 O-O
+8. O-O Nc6 9. f4 Ng4 10. Nxc6 bxc6 11. Bd2 Qb6+ 12. Kh1 Nf2+ 13. Rxf2 Qxf2
+14. Bd3 Qb6 15. b3 a5 16. Rc1 Ba6 17. Qf3 Bxd3 18. Qxd3 Rfd8 19. Be3 Qc7
+20. Ne2 e6 21. Nd4 d5 22. e5 c5 23. Nf3 a4 24. Rf1 d4 25. Bc1 axb3 26. axb3 Ra2
+27. Ng5 h6 28. Nh3 Rda8 29. g4 Rc8 30. g5 h5 31. f5 exf5 32. Nf4 Qxe5 33. Nh3
+Qe4+ 34. Qxe4 fxe4 35. Nf4 Rxc2 36. Nd5 Ra8 37. Ne7+ Kh7 38. Nd5 Raa2 39. Nb6
+Rxh2+ 40. Kg1 Rag2#
+
+{spintheblack checkmated} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.01.06"]
+[White "BunnyRabid"]
+[Black "spintheblack"]
+[WhiteElo "1903"]
+[BlackElo "1883"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 e6 2. b3 d5 3. Bb2 d4 4. d3 c5 5. Nd2 e5 6. g3 Nc6 7. f4 f6 8. f5 Bd6
+9. Be2 Nge7 10. a3 Bd7 11. Ngf3 O-O 12. Bf1 g6 13. g4 g5 14. Qe2 b5 15. Bg2 a5
+16. Kf2 Qe8 17. h4 h6 18. hxg5 hxg5 19. Rh5 Rf7 20. Rah1 Rg7 21. Rh8+ Kf7
+22. Rxe8 Rxe8 23. Rh5 Reg8 24. Qf1 Be8 25. Qh1 Kf8 26. Rh7 b4 27. Rxg7 Rxg7
+28. a4 Ng8 29. Qe1 Rh7 30. Nf1 Nce7 31. Ng3 Bf7 32. Bc1 Nh6 33. Bh3 Nc6
+34. Bxg5 fxg5 35. Nxg5 Rg7 36. Nxf7 Nxf7 37. Nh5 Rg5 38. Qd2 Ne7 39. Kf3 Ng8
+40. Ng3 Ngh6 41. Qxg5 Nxg5+ 42. Kg2 Nhf7 43. Nh5 Kg8 44. Nf6+ Kf8 45. Nd7+ Ke7
+46. Nb6 Nh6 47. Nc8+ Kd7 48. Nxd6 Kxd6 49. Kg3 c4 50. dxc4 d3 51. cxd3 Ngf7
+52. g5 Nd8 53. gxh6 Nc6 54. h7 Nd4 55. h8=Q Ne2+ 56. Kh4 Nd4 57. Qh7
+
+{spintheblack forfeits on time} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.01.06"]
+[White "spintheblack"]
+[Black "BunnyRabid"]
+[WhiteElo "1875"]
+[BlackElo "1911"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 d6 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 O-O
+8. O-O Ng4 9. Qd2 Nxe3 10. Qxe3 Nc6 11. Nxc6 bxc6 12. Kh1 Qa5 13. f4 Rb8 14. f5
+Rxb2 15. Ne2 Rxc2 16. Rac1 Rxc1 17. Rxc1 Ba6 18. fxg6 Bxc4 19. gxh7+ Kh8
+20. Nf4 Be6 21. Rf1 Qxa2 22. Qg3 Bc4 23. Re1 Qb2 24. Nh5 Qe5 25. Qh4 a5 26. h3
+a4 27. Re3 Bb3 28. Rf3 c5 29. Rf5 Qa1+ 30. Kh2 a3 31. Nf4 Be6 32. Qxe7 Bxf5
+33. Ng6+ Bxg6 34. e5 Qxe5+ 35. Qxe5 Bxe5+ 36. Kg1 a2 37. Kf2 a1=Q 38. Ke3 Qd4+
+39. Kf3 c4 40. Ke2 c3 41. Kf1 c2 42. Ke2 c1=Q
+
+{spintheblack forfeits on time} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.01.06"]
+[White "BunnyRabid"]
+[Black "spintheblack"]
+[WhiteElo "1918"]
+[BlackElo "1868"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. c3 O-O 7. O-O Bg4 8. h3
+Bh5 9. Bg5 Nbd7 10. Nbd2 c6 11. Qc2 Qc7 12. Rfe1 h6 13. Be3 Rae8 14. c4 dxc4
+15. Nxc4 Nd5 16. Nxd6 Qxd6 17. Nd2 Nxe3 18. fxe3 Qg3 19. Nf1 Qg5 20. Qf2 Re6
+21. Qf5 Qxf5 22. Bxf5 Re7 23. Ng3 Nf6 24. e4 Rfe8 25. e5 g6 26. Bc2 Nd5 27. Bb3
+Nf4 28. Kh2 Nd3 29. Rg1 Nf2 30. Nxh5 gxh5 31. Rgf1 Ne4 32. Rf5 Ng5 33. h4 Ne4
+34. Raf1 b6 35. R1f4 Nd2 36. Rxh5 Nxb3 37. Rg4+ Kh7 38. axb3 c5 39. Rf4 cxd4
+40. Rxd4 Rxe5 41. Rd6 Rxh5 42. Rd7 Rxh4+ 43. Kg1 Rf4 44. Kh2 Kg6 45. g3 Re6
+46. Kh3 Rf5 47. Rd6 Rh5+ 48. Kg2 Rxd6 49. g4 Rhd5 50. Kf3 Rd2 51. Kg3 R6d3+
+52. Kh4 Rxb2 53. g5 Rbxb3 54. gxh6 Rb4#
+
+{BunnyRabid checkmated} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.01.06"]
+[White "spintheblack"]
+[Black "BunnyRabid"]
+[WhiteElo "1877"]
+[BlackElo "1909"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 O-O
+8. O-O Nc6 9. Qd2 Ng4 10. Rae1 Nxe3 11. Rxe3 Nxd4 12. f4 Nc6 13. Kh1 Qb6
+14. Nd5 Qxb2 15. Nxe7+ Nxe7 16. Qxd6 Nc6 17. f5 Qe5 18. Qd2 Rd8 19. Qf2 g5
+20. f6 Bf8 21. Qe2 Be6 22. Bxe6 Qxe6 23. Rf5 h6 24. Qh5 Nd4 25. h4 Nxf5
+26. hxg5 hxg5 27. Rh3 Rd1+ 28. Kh2 Nh6 29. Qxh6 Bxh6 30. Rxh6 Qe5+
+
+{spintheblack resigns} 0-1

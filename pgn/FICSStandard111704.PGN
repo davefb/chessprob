@@ -1,0 +1,22 @@
+
+[Event "fics rated standard match"]
+[Site "fics"]
+[Date "2004.11.17"]
+[White "chesswanderer"]
+[Black "spintheblack"]
+[WhiteElo "1785"]
+[BlackElo "1809"]
+[TimeControl "900+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Nge7
+8. Nbd2 Ng6 9. Re1 Be7 10. a3 a5 11. Nb3 Qc7 12. Bxg6 hxg6 13. Nbxd4 Bd7
+14. Bd2 Rh5 15. Nxc6 Bxc6 16. b4 Kd7 17. c4 dxc4 18. Qxc4 Rah8 19. Bf4 g5
+20. Bg3 Bxf3 21. Qxc7+ Kxc7 22. gxf3 axb4 23. axb4 Rd8 24. Rec1+ Kb6 25. f4 g4
+26. Kg2 Rd2 27. Rc4 Rh8 28. Rac1 Rhd8 29. h3 gxh3+ 30. Kxh3 R8d3 31. Kg4 Rd4
+32. Rc7 Rd7 33. R7c4 R2d4 34. f3 Kb5 35. Rxd4 Rxd4 36. Rc7 Bxb4 37. Rxb7+ Kc6
+38. Rxf7 Kd5 39. Rd7+ Kc4 40. Rxg7 Bd2 41. Rc7+ Kb5 42. Re7 Kc5 43. Rxe6 Be1
+44. Bxe1 Rd1 45. Bg3 Rg1
+
+{chesswanderer forfeits on time} 0-1

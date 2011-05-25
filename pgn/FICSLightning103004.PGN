@@ -1,0 +1,79 @@
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2004.10.30"]
+[White "kavron"]
+[Black "spintheblack"]
+[WhiteElo "2051"]
+[BlackElo "1850"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e3 e6 2. b3 d5 3. Bb2 Nf6 4. Nf3 c5 5. Be2 Nc6 6. O-O Bd6 7. c4 Qc7 8. cxd5
+exd5 9. h3 Bf5 10. d3 Bg6 11. Nbd2 Nd7 12. a3 O-O 13. Rc1 f5 14. Qc2 f4 15. e4
+dxe4 16. Nxe4 Rae8 17. b4 cxb4 18. axb4 Qb8 19. b5 Nce5 20. Qb3+ Kh8 21. Rfe1
+Re7 22. Nfg5 h6 23. Nxd6 Qxd6 24. Ne4 Bxe4 25. dxe4 Qf6 26. f3 Ref7 27. Bc4 Re7
+28. Bd5 b6 29. Rc7 Nc5 30. Qc4 Rxc7 31. Bxe5 Qxe5 32. Rd1 Rfc8 33. Qe2 Nd7
+34. Re1 Nc5 35. Ba2 Rd7 36. Qb2 Qxb2 37. Rf1 Rd2 38. Rf2 Rxf2 39. Bb3 Rxg2+
+40. Kf1 Qf2#
+
+{kavron checkmated} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2004.10.30"]
+[White "basenji"]
+[Black "spintheblack"]
+[WhiteElo "1964"]
+[BlackElo "1862"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 e6 2. Qe2 d5 3. exd5 Qxd5 4. Nf3 Qa5 5. g3 Nc6 6. Bg2 Nf6 7. O-O Bb4
+8. c3 Bd6 9. d4 b6 10. Bg5 Bb7 11. Ne5 Bxe5 12. dxe5 Nd5 13. Nd2 h6 14. Be3 O-O
+15. Rad1 Nxe3 16. Qxe3 Rad8 17. Ne4 Qxa2 18. Qf4 Ne7 19. Nf6+ gxf6 20. exf6 Ng6
+21. Qxh6 Be4 22. Qg7#
+
+{spintheblack checkmated} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2004.10.30"]
+[White "spintheblack"]
+[Black "basenji"]
+[WhiteElo "1856"]
+[BlackElo "1970"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 c5 2. d4 e6 3. Nf3 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be3 Nf6 7. f3 Bb4 8. Qd3
+Nc6 9. Be2 d5 10. O-O e5 11. Nxc6 bxc6 12. exd5 cxd5 13. Nxd5 Nxd5 14. Qxd5 Bb7
+15. Qb3 Bd6 16. Rad1 O-O 17. Rd2 Rab8 18. Qd3 Rfc8 19. Rfd1 Be7 20. c3 Bf6
+21. Qc2 a5 22. Bd3 Bd5 23. Bxh7+ Kh8 24. f4 e4 25. Bd4 Kxh7 26. Bxf6 gxf6
+27. Rxd5 f5 28. Qf2 Rg8 29. Qh4+ Kg7 30. Rxf5 Kf8 31. Re5 Re8 32. Red5 Rg6
+33. Qh8+ Ke7 34. Rd7+ Qxd7 35. Rxd7+ Kxd7 36. Qd4+ Ke7 37. Qe5+ Kf8 38. Qh8+
+Rg8 39. Qd4 e3 40. Kf1 e2+ 41. Ke1 Rxg2 42. Qd6+ Kg7 43. Qd4+ f6 44. Qd7+ Kf8
+45. Qf5 Rg1+ 46. Kd2 e1=Q+ 47. Kc2 Qd1#
+
+{spintheblack checkmated} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2004.10.30"]
+[White "basenji"]
+[Black "spintheblack"]
+[WhiteElo "1975"]
+[BlackElo "1851"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 e6 2. Qe2 d5 3. exd5 Nf6 4. Nf3 Nxd5 5. Nc3 Bb4 6. g3 Nxc3 7. dxc3 Bc5
+8. Bg2 Nc6 9. O-O Bd7 10. Bf4 O-O 11. Rad1 Qe7 12. Ne5 Nxe5 13. Bxe5 c6 14. b4
+Bb6 15. a4 Rac8 16. Bd6 Qf6 17. Bxf8 Rxf8 18. Rxd7 Qxc3 19. Rxb7 Qxb4 20. Bxc6
+Qxa4 21. Bxa4
+
+{spintheblack resigns} 1-0

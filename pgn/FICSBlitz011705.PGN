@@ -1,0 +1,18 @@
+
+[Event "fics rated blitz match"]
+[Site "fics"]
+[Date "2005.01.17"]
+[White "Blueberry"]
+[Black "spintheblack"]
+[WhiteElo "1893"]
+[BlackElo "1766"]
+[TimeControl "180+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. h4 h6 7. Bxe7 Qxe7 8. Qg4
+g6 9. Bd3 a6 10. Rh3 c5 11. Nge2 Nc6 12. Rf3 cxd4 13. Rxf7 Qxf7 14. Bxg6 Ncxe5
+15. Bxf7+ Kxf7 16. Qh5+ Ke7 17. Nxd4 b5 18. O-O-O Bb7 19. Re1 Rhf8 20. Rxe5
+Nxe5 21. Qxe5 Bc8 22. Nxd5+ Kd7 23. Nb6+ Ke7
+
+{spintheblack resigns} 1-0

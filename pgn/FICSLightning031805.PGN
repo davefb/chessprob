@@ -1,0 +1,74 @@
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.03.18"]
+[White "Gebrselassie"]
+[Black "spintheblack"]
+[WhiteElo "1841"]
+[BlackElo "1880"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "*"]
+
+1. d4
+
+{Game aborted on move 1} *
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.03.18"]
+[White "pmu"]
+[Black "spintheblack"]
+[WhiteElo "1844"]
+[BlackElo "1880"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Ngf3 c5 6. c3 Nc6 7. Bd3 Qb6 8. O-O
+cxd4 9. cxd4 Bb4 10. a3 Be7 11. Qe2 Nf8 12. Rd1 Ng6 13. h4 Nf4 14. Qe3 Nxd3
+15. Qxd3 Bd7 16. b4 Rc8 17. Nb3 Nd8 18. Nc5 Qc6 19. b5 Qc7 20. a4 b6 21. Na6
+Qc4 22. Qe3 Nb7 23. Ba3 Bxa3 24. Rxa3 Na5 25. Raa1 O-O 26. Rac1 Qxa4 27. Ng5
+Rxc1 28. Rxc1 Bxb5 29. Nc7 Nc4 30. Qd3 g6 31. Nxb5 Qxb5 32. h5 Qb2 33. Rd1 Qb5
+34. h6 Rc8 35. Qf3 Qe8 36. Qf6 Qf8 37. Rc1 Re8 38. Rc3 Na3 39. Rh3 Nc2 40. Kh2
+Nxd4 41. Rf3 Nf5 42. Rxf5 exf5 43. g4 Rxe5 44. gxf5 Re6 45. fxe6
+
+{spintheblack forfeits on time} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.03.18"]
+[White "spintheblack"]
+[Black "themindset"]
+[WhiteElo "1869"]
+[BlackElo "1832"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. g3 c6 5. Bg2 Bf5 6. d3 e6 7. Bd2 Nf6 8. Nf3
+Qc7 9. O-O Nbd7 10. Nh4 Bg6 11. Qe2 Bd6 12. a3 O-O-O 13. b4 Bh5 14. Nf3 Bg4
+15. h3 Bf5 16. Be3 h5 17. h4 g5 18. Bxg5 Rdg8 19. Ne4 Nxe4 20. dxe4 Bg4 21. c4
+Bxg3 22. fxg3 Qxg3 23. Kh1 Rxg5 24. hxg5 Bxf3 25. Qxf3 Qh4+ 26. Kg1 Qxg5 27. b5
+Rg8 28. Ra2 c5 29. a4 Ne5 30. Qf6 Qxg2+ 31. Rxg2
+
+{themindset resigns} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.03.18"]
+[White "spintheblack"]
+[Black "pmu"]
+[WhiteElo "1877"]
+[BlackElo "1853"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Bg5 Nc6 9. f4 Qb6 10. Ne2 Nd7 11. e5 dxe5 12. fxe5 Bxe5 13. c3 Bxd4+
+14. cxd4 e5 15. Kh1 Nxd4 16. Nxd4 exd4 17. Bxf7+ Rxf7 18. Rxf7 Kxf7 19. Qf3+
+Kg7 20. Re1 Qc6 21. Re7+ Kh8 22. h3 Qxf3 23. gxf3 Nb6 24. Bf6+ Kg8 25. Rg7+ Kf8
+26. Rxh7 Bf5 27. Rh8+ Kf7 28. Rxa8 Nxa8 29. Bxd4 Nb6
+
+{spintheblack resigns} 0-1

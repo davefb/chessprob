@@ -1,0 +1,122 @@
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.02.17"]
+[White "riceman"]
+[Black "spintheblack"]
+[WhiteElo "2002"]
+[BlackElo "1860"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. e5 Nfd7 5. d4 c5 6. Ne2 Nc6 7. c3 Qb6 8. g3 f6
+9. Bg2 fxe5 10. dxe5 Ncxe5 11. Nxe5 Nxe5 12. Bf4 Ng6 13. O-O Be7 14. Re1 e5
+15. Be3 d4 16. cxd4 cxd4 17. Bd2 Bg4 18. h3 Bf5 19. g4 Bd3 20. Ng3 O-O 21. Bh6
+Ba6 22. Bd2 Bc5 23. b4 Bd6 24. Ne4 Be7 25. a4 Bd3 26. a5 Qd8 27. Qb3+ Kh8
+28. Qxd3 Bh4 29. Ng3 Bxg3 30. Qxg3 Rc8 31. Be4 Ne7 32. h4 Nc6 33. h5 Nxb4
+34. h6 g6 35. g5 Nc2 36. Bxc2 Rxc2 37. Rxe5 Rxd2 38. Re7 Rdxf2 39. Rxh7+ Kxh7
+
+{riceman forfeits on time} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.02.17"]
+[White "spintheblack"]
+[Black "Broussy"]
+[WhiteElo "1871"]
+[BlackElo "1842"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb3 a5 6. Nc3 a4 7. Nd2 Bb4 8. Bc4
+a3 9. O-O axb2 10. Bxb2 Nf6 11. f3 O-O 12. Kh1 d6 13. Nd5 Bxd2 14. Qxd2 Be6
+15. Rad1 Bxd5 16. exd5 Na5 17. Bd3 Rc8 18. Rc1 Nc4 19. Bxc4 Rxc4 20. f4 exf4
+21. Rf3 Qc7 22. c3 Re8 23. Rcf1 Ne4 24. Qd3 f5 25. Rxf4 b5 26. Rxf5 Qe7
+27. R5f4 Qg5 28. Rf5 Qh4 29. Qf3 Nf6 30. Bc1 h5 31. g3
+
+{Broussy forfeits on time} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.02.17"]
+[White "spintheblack"]
+[Black "fazt"]
+[WhiteElo "1878"]
+[BlackElo "1895"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 c6 2. Nf3 d6 3. d4 Bg4 4. c4 g6 5. Bf4 Bg7 6. Qd3 h5 7. h3 Bxf3 8. gxf3
+Bh6 9. Be3 Bxe3 10. fxe3 e6 11. h4 Ne7 12. Bh3 d5 13. f4 Nd7 14. Nc3 Qa5
+15. Kf2 Qb4 16. b3 Nb6 17. c5 Nd7 18. Rhg1 a6 19. Rg2 Qa5 20. Kf3 Qc7 21. Rag1
+Nf6 22. f5 dxe4+ 23. Nxe4 Nxe4 24. Qxe4 exf5 25. Qd3 Qd7 26. e4 O-O-O 27. exf5
+Nxf5 28. Bxf5 Qxf5+ 29. Qxf5+ gxf5 30. Rg7 Rxd4 31. Rxf7 Rg4 32. Re1 Rxh4
+33. Ree7 Rh3+ 34. Kf4 Rh4+ 35. Kg5 Rg4+ 36. Kxf5 Rhg8 37. Rc7+ Kd8 38. Rfd7+
+Ke8 39. Re7+ Kd8 40. Red7+ Ke8 41. Re7+ Kd8 42. Red7+ Ke8 43. Re7+ Kf8 44. Rf7+
+Ke8 45. Rc8+ Kxf7
+
+{spintheblack forfeits on time} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.02.17"]
+[White "fazt"]
+[Black "spintheblack"]
+[WhiteElo "1903"]
+[BlackElo "1870"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. d4 e6 2. c3 d5 3. Nf3 c5 4. Bg5 Qb6 5. Qb3 Qxb3 6. axb3 Nc6 7. e3 cxd4
+8. exd4 Be7 9. Bxe7 Ngxe7 10. Bd3 Bd7 11. Nbd2 O-O 12. b4 a6 13. O-O Ng6
+14. Rfe1 Nf4 15. Bf1 Rae8 16. g3 Ng6 17. Bh3 f6 18. Nb3 Nb8 19. Nc5 Bc8
+20. Bxe6+ Bxe6 21. Rxe6 Rd8 22. Nxb7 Rd7 23. Nc5 Rc7 24. Nxa6 Nxa6 25. Raxa6
+Rfc8 26. Nd2 Nf8 27. Red6 Nd7 28. Nb3 Nb6 29. Nc5 Nc4 30. Rd7 Nxb2 31. Rxc7
+Rxc7 32. Ra2 Nc4 33. Ra6 Nd2 34. Ra8+ Kf7 35. Rb8 Nb1 36. Na4 Ra7 37. Nc5 Nxc3
+38. Rb7+ Rxb7 39. Nxb7 Nb5 40. Nc5 Nxd4 41. Na4 Nc2 42. Nc5 Nxb4 43. Nb3 Nd3
+44. Nd4 Ne5 45. Kg2 Kg6 46. f4 Nc6 47. f5+ Kf7 48. Nxc6 Ke8 49. Nd4 Kd7 50. g4
+Kd6 51. Ne6 Ke5 52. Nxg7 d4 53. Kf2 d3 54. Ke1 d2+ 55. Kxd2 Kf4 56. h3 Kg3
+57. Ne8 Kxh3 58. Nxf6
+
+{spintheblack forfeits on time} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.02.17"]
+[White "spintheblack"]
+[Black "fazt"]
+[WhiteElo "1863"]
+[BlackElo "1910"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 c6 2. e5 d5 3. exd6 exd6 4. g3 d5 5. Bg2 Nf6 6. c4 Be6 7. cxd5 Bxd5
+8. Nf3 Be7 9. O-O O-O 10. Nc3 Nbd7 11. d4 Nb6 12. Bg5 h6 13. Bf4 Nh5 14. Be3
+Nf6 15. Ne5 Bb4 16. Nxd5 Nbxd5 17. a3 Bd6 18. Bd2 Re8 19. f4 Bf8 20. Qf3 g6
+21. Qd3 Bg7 22. Nxg6 fxg6 23. Qxg6 Rf8 24. Rae1 Qd7 25. Re5 Qf7 26. Bxd5 Nxd5
+27. Qg4 Kh7 28. Rfe1 Qg6 29. Qf3 Bxe5 30. dxe5 Rae8 31. Bc3 Qf5 32. Bd4 Re6
+33. Rc1 Rb8 34. Re1 Rc8 35. g4 b6 36. gxf5 Ree8 37. f6 Rg8+ 38. Kh1 Rg6 39. Qd3
+Rg8 40. e6 Nxf6 41. e7 Re8 42. Bxf6 Rxe7 43. Bh4 Rf7 44. Be7 Rg7 45. Bh4 h5
+46. Rg1 Kh6 47. Rg2 Rxg2
+
+{spintheblack forfeits on time} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.02.17"]
+[White "JahnTeig"]
+[Black "spintheblack"]
+[WhiteElo "1846"]
+[BlackElo "1856"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "*"]
+
+1. b4
+
+{Game aborted on move 1} *

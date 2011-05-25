@@ -1,0 +1,16 @@
+xboard
+protover 2
+accepted analyze
+accepted sigint
+accepted usermove
+accepted colors
+new
+random
+level 40 5 0
+hard
+time 30000
+otim 30000
+usermove e2e4
+
+
+

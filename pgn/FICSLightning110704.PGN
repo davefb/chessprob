@@ -1,0 +1,63 @@
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2004.11.07"]
+[White "odie"]
+[Black "spintheblack"]
+[WhiteElo "1983"]
+[BlackElo "1798"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. Nc3 d5 2. e4 dxe4 3. Nxe4 Nf6 4. Nxf6+ exf6 5. Bc4 Nc6 6. d3 Bc5 7. Ne2 O-O
+8. O-O Re8 9. h3 Be6 10. Bxe6 Rxe6 11. c3 Qe7 12. Nf4 Rd6 13. Qb3 Re8 14. d4
+Bb6 15. Be3 g5 16. Nd5 Qe6 17. Nxb6 axb6 18. Rfe1 Qxb3 19. axb3 Rde6 20. Kf1
+Ne7 21. Ra7 Rb8 22. Bd2 Rxe1+ 23. Kxe1 Kf8 24. Ke2 Nd5 25. Kd3 Ke7 26. c4 Nf4+
+27. Bxf4 gxf4 28. Ke4 Ke6 29. Kxf4 Rd8 30. d5+ Kd6 31. Rxb7 Ra8 32. b4 Ra2
+33. c5+ Kd7 34. cxb6 Rxb2 35. Rxc7+ Kd6 36. Kg3 Rxb4 37. Rxf7 Ke5 38. Rxh7 Rxb6
+39. Rh5+ Kd6 40. h4 Rb3+ 41. f3 Ke7 42. Rf5 Rb5 43. Kf4 Rc5 44. g4 Rc4+ 45. Kg3
+Rc1 46. h5 Rg1+ 47. Kf4 Ra1 48. Kg3 Ra4 49. Rf4 Rd4 50. Re4+ Rxe4 51. fxe4 Kd6
+52. Kf4 Kc5 53. g5 Kd4 54. gxf6 Kd3 55. f7 Ke2 56. f8=Q Kf1 57. Qb4 Ke2 58. Qc3
+Kd1 59. Qb2
+
+{spintheblack forfeits on time} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2004.11.07"]
+[White "spintheblack"]
+[Black "odie"]
+[WhiteElo "1794"]
+[BlackElo "1987"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Nf3 Nd7 5. Be3 c6 6. Bc4 Qa5 7. O-O b5 8. Bb3
+Ngf6 9. e5 Ng4 10. Bf4 d5 11. h3 Nh6 12. Qd2 Ng8 13. Ng5 e6 14. Nf3 Ne7 15. a4
+b4 16. Na2 Rb8 17. c4 bxc3 18. bxc3 Rxb3 19. Qc2 Rb8 20. Nb4 c5 21. Nd3 cxd4
+22. cxd4 O-O 23. Rfc1 Nf5 24. Qe2 Nb6 25. Nc5 Nc4 26. g4 Ne7 27. h4 Rb2 28. Qf1
+Nc6 29. h5 Nxd4 30. Nxd4 Qxc5 31. Nb5 a6 32. Nd6 Bd7 33. hxg6 hxg6 34. Rc3 Rb4
+35. Rh3 Nxd6 36. Qg2
+
+{odie forfeits on time} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2004.11.07"]
+[White "odie"]
+[Black "spintheblack"]
+[WhiteElo "1975"]
+[BlackElo "1806"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. Nc3 e6 2. e4 d5 3. d4 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. f4 Qb6 8. Nf3
+cxd4 9. cxd4 Bb4+ 10. Kf2 f6 11. a3 Be7 12. g3 f5 13. Kg2 Qa5 14. h4 h6 15. Be3
+Nf8 16. b4 Qc7 17. Rc1 a6 18. Nc3 Qb6 19. Na4 Qc7 20. Nc5 Bd7 21. Bd3 b6
+22. Nxd7 Qxd7 23. Qa4 b5 24. Bxb5 Rc8 25. Bxc6 Rxc6 26. Qxc6 Qxc6 27. Rxc6 Kf7
+28. Rxa6
+
+{spintheblack resigns} 1-0

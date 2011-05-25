@@ -1,0 +1,66 @@
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.04.24"]
+[White "Zupa"]
+[Black "spintheblack"]
+[WhiteElo "1944"]
+[BlackElo "1926"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1/2-1/2"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. Nf3 Qb6 8. Qb3
+Qxb3 9. axb3 cxd4 10. cxd4 Bb4+ 11. Bd2 Bxd2+ 12. Kxd2 Nb6 13. Nc3 Bd7 14. Bd3
+O-O 15. Rhc1 Rac8 16. Nb5 a6 17. Nd6 Rc7 18. Rc2 Nc8 19. Rac1 Nxd6 20. exd6
+Rcc8 21. Ne5 Rcd8 22. Nxd7 Rxd7 23. Bxa6 Rxd6 24. Bxb7 Nb4 25. Rc7 Rb8 26. Rc8+
+Rd8 27. Rxd8+ Rxd8 28. Rc7 Rb8 29. Rc8+ Rxc8 30. Bxc8 Nc6 31. Kc3 Kf8 32. b4
+Ke7 33. b5 Nb8 34. Bb7 Kd6 35. Kb4 Kc7 36. Ba6 Kb6 37. Bc8 Kc7 38. Ba6 Nd7
+39. Ka5 Nf6 40. b6+ Kb8 41. f3 Nh5 42. Kb5 Nf4 43. g3 Ne2 44. Kc6 Nxd4+ 45. Kd7
+Nxf3 46. Ke7 Ne5 47. Kd6 f6 48. Kxe6 d4 49. g4 d3 50. Bxd3 Nxd3 51. Kf7 Kb7
+52. Kxg7 f5 53. gxf5 Ne5 54. Kxh7 Kxb6 55. h4 Kb5 56. h5 Kc6 57. Kg7 Kd7 58. f6
+Ke8 59. f7+ Nxf7 60. h6 Ne5 61. h7 Nf7 62. h8=Q+ Nxh8 63. Kxh8 Kd7 64. Kg7 Kc6
+65. Kf6 Kb5 66. Ke5 Kb4 67. Kd4 Kb3 68. Kd3 Kxb2
+
+{Neither player has mating material} 1/2-1/2
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.04.24"]
+[White "ArturoToscanini"]
+[Black "spintheblack"]
+[WhiteElo "1875"]
+[BlackElo "1926"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 e6 2. Nc3 d5 3. exd5 exd5 4. d4 Nf6 5. g3 c6 6. Bg2 Bd6 7. Nge2 O-O 8. h3
+Bf5 9. O-O Nbd7 10. g4 Bg6 11. f4 Re8 12. f5 Bh5 13. Nf4 Bxg4 14. hxg4 Qc7
+15. Qf3 Ne4 16. Nxe4 dxe4 17. Qe3 Nf6 18. Bh3 c5 19. c3 Rad8 20. Bd2 cxd4
+21. cxd4 Nd7 22. Rac1 Qb6 23. a3 Rc8 24. b4 a5 25. g5 axb4 26. axb4 Bxf4
+27. Rxf4 Rc4 28. Rxc4 Qb5 29. Rc1 Nb6 30. Rxe4 Rd8 31. Re1 Rf8 32. f6 Nd5
+33. Qf3 gxf6 34. gxf6 Kh8 35. Kh2 Rg8 36. Bh6 Qd7 37. Bg7+ Rxg7 38. fxg7+ Kg8
+
+{ArturoToscanini forfeits on time} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.04.24"]
+[White "spintheblack"]
+[Black "Monti"]
+[WhiteElo "1933"]
+[BlackElo "1842"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 c5 2. d4 e6 3. Nf3 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be3 Bb4 7. Qd3 Nf6
+8. Be2 Nxe4 9. O-O Nxc3 10. bxc3 Qxc3 11. Qe4 Nc6 12. Rab1 Nxd4 13. Bxd4 Qc6
+14. Qxc6 dxc6 15. Rxb4 O-O 16. Bc5 Rd8 17. Bd3 b5 18. Re1 f6 19. Be4 Bb7 20. h3
+e5 21. Re3 Rd1+ 22. Kh2 Ra1 23. Rg3 a5 24. Rbb3 Rd8 25. Bd3 a4 26. Rc3 Rd5
+27. Ba3 Rxa2 28. Bc1 Ra1 29. Be3 Ba6 30. Be4 Rd6 31. Rxc6 Rxc6 32. Bxc6 b4
+33. Bxa4 Rxa4 34. f4 exf4 35. Bxf4 Kf7 36. Be3 g6 37. Bd4 f5 38. c3 bxc3
+39. Bxc3 Ra2 40. Re3 Bb7 41. Rd3 Rxg2+ 42. Kh1 Rd2+ 43. Kg1 Rxd3 44. Kf1 Rd1+
+
+{spintheblack forfeits on time} 0-1

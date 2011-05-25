@@ -1,0 +1,109 @@
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.09.21"]
+[White "basenji"]
+[Black "spintheblack"]
+[WhiteElo "1904"]
+[BlackElo "1843"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1/2-1/2"]
+
+1. e4 e6 2. Qe2 d5 3. exd5 Qxd5 4. Nf3 Bb4 5. g3 Nc6 6. Bg2 Bd7 7. O-O Qh5
+8. c3 Bd6 9. d4 Nf6 10. Nbd2 O-O 11. Nc4 Rae8 12. Be3 e5 13. Nxd6 cxd6 14. d5
+Ne7 15. c4 Bg4 16. h3 Bxh3 17. Bxh3 Qxh3 18. Ng5 Qd7 19. Kg2 h6 20. Rh1 Ng4
+21. Qd2 Nxe3+ 22. fxe3 hxg5 23. Qd3 f5 24. Raf1 g6 25. Rh6 Kg7 26. Rfh1 Rh8
+27. Rxh8 Rxh8 28. Rxh8 Kxh8 29. e4 Kg7 30. exf5 gxf5 31. Qe2 Ng6 32. Qh5 Kf6
+33. Qh6 Qg7 34. Qh5 Ne7 35. b4 Qg6 36. Qh8+ Qg7 37. Qd8 f4 38. Qxd6+ Kf7
+39. Qe6+ Ke8 40. d6 f3+ 41. Kxf3 Qf7+ 42. Qxf7+ Kxf7 43. dxe7 Kxe7 44. Ke4 Kf6
+45. c5 a6 46. a4 Ke6 47. b5 axb5 48. axb5 g4 49. c6 bxc6 50. bxc6 Kd6 51. c7
+Kxc7 52. Kxe5 Kd7 53. Kf6 Kd6 54. Kf5 Ke7 55. Kxg4 Ke6 56. Kg5 Kf7 57. Kf5 Kg8
+58. Kg5 Kg7 59. Kf5 Kf7 60. g4 Kg7 61. Kg5 Kf7 62. Kh6 Kg8 63. Kg6 Kh8 64. Kf7
+Kh7 65. g5 Kh8 66. g6
+
+{Game drawn by stalemate} 1/2-1/2
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.09.21"]
+[White "spintheblack"]
+[Black "basenji"]
+[WhiteElo "1844"]
+[BlackElo "1903"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 c5 2. d4 e6 3. Nf3 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be3 Nf6 7. Be2 Bb4 8. f3
+d5 9. exd5 Nxd5 10. Qd3 Nxc3 11. bxc3 Bxc3+ 12. Kf2 Bxa1 13. Rxa1 Nc6 14. Rb1
+Nxd4 15. Bxd4 O-O 16. Bb6 Qc6 17. Qb3 e5 18. Bd3 Be6 19. Qb2 Rad8 20. Qxe5 Rxd3
+21. cxd3 Qc2+ 22. Kg3 Qxb1 23. Bd4 f6 24. Qxe6+ Kh8 25. Bc5 Rg8 26. d4 Qg6+
+27. Kf2 Re8 28. Qd5 Qc2+ 29. Kg3 h5 30. Qxh5+ Kg8 31. Qxe8+ Kh7 32. Qh5+ Kg8
+33. Qd5+ Kh7 34. Qe4+ Qxe4 35. fxe4 Kg6 36. d5 Kf7 37. d6 Ke8 38. Kf4 Kd7
+39. e5 Ke6 40. d7 Kxd7 41. exf6 gxf6 42. Bd4 Kc6 43. Bxf6 Kd5 44. h4 b5 45. h5
+a5 46. h6 a4 47. h7 b4 48. h8=Q b3 49. axb3 axb3 50. Bb2 Kc4 51. Qc3+ Kb5
+52. Qxb3+ Ka6 53. Qb4 Ka7 54. Qb5
+
+{basenji forfeits on time} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.09.21"]
+[White "basenji"]
+[Black "spintheblack"]
+[WhiteElo "1894"]
+[BlackElo "1853"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 e6 2. Qe2 d5 3. exd5 Nf6 4. Nf3 Nxd5 5. g3 c5 6. Bg2 Nc6 7. O-O Bd6
+8. Nc3 O-O 9. d3 Bd7 10. Bd2 Nce7 11. Rfe1 Nxc3 12. bxc3 Nd5 13. c4 Nf6 14. Bc3
+Be7 15. Ne5 Rb8 16. Rab1 Qc7 17. h4 Bd6 18. Nf3 Bc6 19. Bxf6 gxf6 20. Nd2 Bxg2
+21. Kxg2 Qc6+ 22. Kh2 f5 23. Qh5 Kh8 24. Nf3 f4 25. g4 Be7 26. Ng5 Bxg5
+27. hxg5 Kg7 28. Qh6+ Kg8 29. Rh1 Qf3 30. Kg1 Qxg4+ 31. Kf1 Qf5 32. Ke2 f6
+33. Rh5 Kf7 34. Rg1 Ke8 35. gxf6 Rxf6
+
+{basenji forfeits on time} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.09.21"]
+[White "spintheblack"]
+[Black "basenji"]
+[WhiteElo "1862"]
+[BlackElo "1885"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 c5 2. e5 e6 3. c4 Nc6 4. Nf3 Qc7 5. d4 cxd4 6. Nxd4 Nxe5 7. Nb5 Qd8
+8. Bf4 d6 9. N1c3 a6 10. Nd4 Nf6 11. g3 Be7 12. Bg2 O-O 13. O-O Rb8 14. a4 Qc7
+15. b3 Rd8 16. Nf3 b6 17. Nxe5 dxe5 18. Bg5 Rxd1 19. Raxd1 h6 20. Be3 Bb7
+21. f3 Rd8 22. Ne4 Nxe4 23. fxe4 Bc5 24. Rde1 Rd3 25. Bxc5 Qxc5+ 26. Kh1 Rxb3
+27. Rd1 Rb2 28. Rd7 Qxc4 29. Rxb7 Rxg2 30. Kxg2 Qxe4+ 31. Rf3 Qxb7 32. Kf2 e4
+33. Re3 f6 34. g4 f5 35. gxf5 exf5 36. Kg3 b5 37. Kf4 bxa4 38. Kxf5 Qd5+
+39. Kf4 a3 40. Rxa3 g5+ 41. Ke3 Qc5+ 42. Kd2 Qxa3 43. Kc2 a5 44. Kb1 a4 45. Kc2
+e3 46. Kb1 e2 47. Kc2 e1=Q 48. h3 Qf2+ 49. Kd1 Qa1#
+
+{spintheblack checkmated} 0-1
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2005.09.21"]
+[White "basenji"]
+[Black "spintheblack"]
+[WhiteElo "1892"]
+[BlackElo "1855"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. e4 e6 2. Qe2 d5 3. exd5 Nf6 4. dxe6 Bxe6 5. g3 Bc5 6. Bg2 O-O 7. Nf3 Re8
+8. O-O Bg4 9. Qc4 Bb6 10. Nc3 Nc6 11. h3 Be6 12. Qh4 Qd7 13. d3 Ne7 14. Bg5 Ng6
+15. Qb4 Bxh3 16. Bxf6 Bxg2 17. Kxg2 gxf6 18. Rh1 c5 19. Qb3 Ne5 20. Nxe5 fxe5
+21. Ne4 Qf5 22. Rh5 Qxh5 23. Nf6+ Kg7 24. Nxh5+ Kg6 25. Rh1 e4 26. Qd5 Bd8
+27. Nf4+ Kg7 28. Qh5 Kf6 29. Qxh7 Ke5 30. Qxe4+ Kd6 31. Qxe8 Bc7 32. Qxa8
+
+{spintheblack resigns} 1-0

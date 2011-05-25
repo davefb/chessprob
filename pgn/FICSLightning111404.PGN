@@ -1,0 +1,40 @@
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2004.11.14"]
+[White "HeavyPawn"]
+[Black "spintheblack"]
+[WhiteElo "1966"]
+[BlackElo "1889"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "1-0"]
+
+1. f4 e6 2. Nf3 d5 3. e3 c5 4. b3 Nc6 5. Bb2 Nf6 6. Bb5 Bd6 7. Bxc6+ bxc6
+8. O-O Ba6 9. d3 Rb8 10. c4 Qc7 11. Nc3 O-O 12. g3 Nd7 13. Qe2 e5 14. fxe5 Nxe5
+15. Nxe5 Bxe5 16. Na4 Bd6 17. Ba3 Qa5 18. Qe1 Qxe1 19. Raxe1 Rfe8 20. Bxc5 Bc7
+21. Bxa7 Rbd8 22. Bd4 f6 23. Nc5 Bc8 24. b4 Bd6 25. a3 Bh3 26. Rf2 Ra8 27. Ra2
+f5 28. Nb3 Bxb4 29. Ree2 Bd6 30. Bc5 Bg4 31. Bxd6 Bxe2 32. Rxe2 Red8 33. Bb4
+dxc4 34. dxc4 Rab8 35. Nc5 Rbc8 36. Kf2 Rd3 37. Nxd3 Rd8 38. Nc5 Rd1 39. Rd2
+Rb1 40. Kf3 Kf7 41. Kf4 Rf1+ 42. Ke5 Rc1 43. Rf2 Re1 44. Rxf5+ Kg6 45. Rf3
+Rxe3+ 46. Rxe3 Kh6 47. Kd4 g6 48. Re4 g5 49. Re6+ Kh5 50. Rxc6 h6 51. Rc7 g4
+52. Rh7 Kg6 53. Rxh6+ Kxh6 54. Ne4 Kg6 55. Nf2 Kh5 56. Nxg4 Kxg4 57. c5
+
+{spintheblack forfeits on time} 1-0
+
+[Event "fics rated lightning match"]
+[Site "fics"]
+[Date "2004.11.14"]
+[White "spintheblack"]
+[Black "kcyong"]
+[WhiteElo "1883"]
+[BlackElo "1863"]
+[TimeControl "60+0"]
+[Mode "ICS"]
+[Result "0-1"]
+
+1. e4 c5 2. d4 e6 3. Nf3 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be3 Bb4 7. Be2 Nf6
+8. Qd3 Nxe4 9. O-O Nxc3 10. bxc3 Qxc3 11. Qe4 d5 12. Qg4 g6 13. Nf3 Nc6
+14. Rab1 Be7 15. Bd3 h5 16. Qa4 Bd7 17. Rxb7 Ne5 18. Nd4 Bxa4
+
+{spintheblack resigns} 0-1
